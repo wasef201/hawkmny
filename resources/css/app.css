@@ -1,0 +1,114 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    @font-face {
+        font-family: Questv1Bold;
+        src: url("../../public/fonts/ArbFONTS-Questv1-Bold.otf");
+    }
+    @font-face {
+        font-family: Questv1Regular;
+        src: url("../../public/fonts/ArbFONTS-Questv1-Regular.otf");
+    }
+
+    label, span, label > div{
+        @apply text-sm md:text-[1rem] font-[Questv1Bold] text-color_3
+    }
+
+    body {
+        font-family: Questv1Bold;
+    }
+    .indicators button.bg-white{
+         background-color: #331F52!important;
+    }
+    .btn {
+        @apply inline-flex text-sm md:text-base items-center px-6 py-3  rounded-3xl m-2 text-white bg-color_2 hover:bg-color_1
+    }
+
+    .aruba-border {
+        @apply rounded-2xl border-black border-b-[6px] border-r-[6px] border-t-2 border-l-2
+    }
+
+    h1 {
+        @apply  text-xl md:text-3xl text-center  font-bold my-3
+    }
+
+    h5 {
+        @apply text-sm  lg:text-lg my-2 md:my-3
+    }
+
+
+    h3 {
+        @apply text-lg  lg:text-xl my-2 md:my-3
+    }
+
+    p {
+        @apply text-sm md:text-base my-1 md:my-3 font-[Questv1Regular] md:leading-8
+    }
+
+    .input {
+        @apply bg-gray-50 border border-[#F7F7F7] text-gray-900 text-sm rounded-lg focus:ring-color_2 focus:border-color_2 focus-visible:border-color_2 block w-full lg:p-2.5
+    }
+
+    .scroll a {
+        @apply lg:py-[1.2rem]
+    }
+
+    .nav-item a{
+        @apply hover:text-color_2 mx-2 flex justify-center py-0 lg:py-[1.2rem] border-b-4 border-b-transparent transition transition-all duration-700
+    }
+    .nav-item a.active {
+        @apply font-bold  text-color_2 border-b-4 border-b-color_2
+    }
+    .footer-item{
+        @apply hover:text-color_2 mx-2 py-2 font-normal font-[Questv1Regular]
+    }
+    #nav-content-2 li a {
+        @apply mx-auto
+    }
+    #nav-content-2{
+        @apply py-0
+    }
+    .select2-dropdown {
+        @apply absolute block w-auto box-border bg-white border-solid border-2 border-gray-600 z-50 float-left;
+    }
+    span.selection .select2-selection{
+        background: #F7F7F7!important;
+        height: 36px!important;
+
+    }
+    select2.select2-container.select2-container{
+        width: 100%!important;
+    }
+    .owl-carousel .owl-nav button.owl-next span, .owl-carousel .owl-nav button.owl-prev span{
+
+        font-size: 2rem!important;
+        color: white;
+
+
+    }
+    .owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev{
+        padding-left: 1rem!important;
+        padding-right: 1rem!important;
+        background-color: #331F52;
+    }
+    .owl-carousel button.owl-dot.active span{
+        background-color: #331F52!important;
+    }
+    /*.owl-theme .owl-next, .owl-theme .owl-prev{*/
+    /*    width: 22px;*/
+    /*    height: 40px;*/
+    /*    margin-top: -20px;*/
+    /*    position: absolute;*/
+    /*    top: 50%;*/
+    /*}*/
+    /*.owl-theme .owl-next{*/
+    /*    left: 10px;*/
+    /*}*/
+    /*.owl-theme .owl-prev{*/
+    /*    right: 10px;*/
+    /*}*/
+}
+
+

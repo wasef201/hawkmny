@@ -1,0 +1,86 @@
+:root{
+    --primary-color: #44215F;
+    --success-color: rgb(38, 167, 118);
+    --success-hover-color: #23B473;
+    --primary-hover-color: #6e3c95;
+}
+.btn.btn-primary{
+    background-color: var(--primary-color);
+    /*
+    background-image: linear-gradient(90deg, rgba(12,109,174,1) 0%, rgba(32,179,129,1) 35%, rgba(12,109,174,1) 100%);
+    */
+    transition: all 0.5s ease;
+}
+.btn-success{
+    background-color: var(--success-color);
+}
+.btn-success:hover, .btn.btn-success:hover:not(.btn-active){
+    background-color: var(--success-hover-color) !important;
+}
+.btn.btn-primary:hover, .btn.btn-primary:hover:not(.btn-active){
+    background-color: var(--primary-hover-color) !important;
+    /*
+    background-image: linear-gradient(90deg, rgba(12,109,174,1) 0%, rgba(32,179,129,1) 50%, rgba(12,109,174,1) 100%);
+    */
+    transition: all 0.5s ease;
+}
+button.btn.btn-warning:hover{
+    background-color: #edf100!important;
+}
+.min-vh-70{
+    min-height: 70vh;
+}
+.drawer, .header-tablet-and-mobile-fixed[data-kt-sticky-header=on] .header, .header-fixed[data-kt-sticky-header=on] .header {
+    background-color: #fff;
+}
+.menu-icon-gray-700 .menu-item .menu-link .menu-icon i, .menu-title-gray-700 .menu-item .menu-link, .menu-title-gray-700 .menu-item .menu-link .menu-title {
+    color: var(--primary-color);
+}
+
+body:not([data-kt-sticky-header=on]) .header .header-menu .menu>.menu-item>.menu-link.active, .menu-active-bg .menu-item .menu-link.active, .menu-here-bg .menu-item.here>.menu-link, .menu-hover-bg .menu-item.hover:not(.here)>.menu-link:not(.disabled):not(.active):not(.here), .menu-hover-bg .menu-item:not(.here) .menu-link:hover:not(.disabled):not(.active):not(.here), .menu-show-bg .menu-item.show>.menu-link, .menu-state-bg .menu-item.here>.menu-link, .menu-state-bg .menu-item.hover:not(.here)>.menu-link:not(.disabled):not(.active):not(.here), .menu-state-bg .menu-item .menu-link.active, .menu-state-bg .menu-item.show>.menu-link, .menu-state-bg .menu-item:not(.here) .menu-link:hover:not(.disabled):not(.active):not(.here) {
+    background-color: rgb(39 166 119 / 40%);
+}
+.logo-default, .logo-sticky{
+
+}
+.header .header-logo .logo-default {
+}
+/*a:hover{*/
+/*    color:var(--primary-hover-color)*/
+/*}*/
+/*a{*/
+/*    color: var(--primary-color);*/
+/*}*/
+/*a.badge:hover{*/
+/*    */
+/*}*/
+.bg-theme-color{
+    color:white;
+    background-color: var(--success-color);
+}
+
+.bg-theme-color:hover{
+    color:white;
+    background-color: var(--success-hover-color);
+}
+body:not([data-kt-sticky-header=on]) .header .header-menu .menu>.menu-item:not(.here)>.menu-link:hover:not(.disabled):not(.active):not(.here) {
+    background-color: rgb(39 166 119 / 40%);
+}
+
+.scrolltop{
+    background-color: var(--primary-color);
+}
+.scrolltop:hover{
+    background-color: var(--primary-hover-color);
+}
+.pattern{
+    background-image: url("../images/h-pattern-1.png"), url("../images/h-pattern-2.png"), url("../images/h-pattern-3.png");
+    background-repeat: no-repeat;
+    background-position: right 5% bottom 5%, left 5% bottom 5%, top 10% left 10%;
+    background-size: 300px, 200px, 50px;
+}
+
+.card-custom{
+    border: 1px solid #dddada !important;
+    padding: 20px;
+}

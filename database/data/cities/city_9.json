@@ -1,0 +1,170 @@
+[
+   {
+      "ID":2213,
+      "NameArabic":"عرعر",
+      "NameEnglish":"AR\u0027AR",
+      "ParentID":9
+   },
+   {
+      "ID":2256,
+      "NameArabic":"رفحاء",
+      "NameEnglish":"RAFHA\u0027",
+      "ParentID":9
+   },
+   {
+      "ID":2208,
+      "NameArabic":"طريف",
+      "NameEnglish":"TURAIF",
+      "ParentID":9
+   },
+   {
+      "ID":2265,
+      "NameArabic":"الشعبة",
+      "NameEnglish":"ASH SHU\u0027ABAH",
+      "ParentID":9
+   },
+   {
+      "ID":2215,
+      "NameArabic":"العويقلية",
+      "NameEnglish":"AL UWAYQILAH",
+      "ParentID":9
+   },
+   {
+      "ID":2266,
+      "NameArabic":"لينة",
+      "NameEnglish":"LINAH",
+      "ParentID":9
+   },
+   {
+      "ID":2214,
+      "NameArabic":"مركز الصحن",
+      "NameEnglish":"MARKAZ AS SAHAN",
+      "ParentID":9
+   },
+   {
+      "ID":2257,
+      "NameArabic":"نصاب",
+      "NameEnglish":"NISAB",
+      "ParentID":9
+   },
+   {
+      "ID":2264,
+      "NameArabic":"إبن شريم",
+      "NameEnglish":"IBN SHURAYM",
+      "ParentID":9
+   },
+   {
+      "ID":2218,
+      "NameArabic":"أم خنصر",
+      "NameEnglish":"UMM KHUNSUR",
+      "ParentID":9
+   },
+   {
+      "ID":2263,
+      "NameArabic":"التمياط",
+      "NameEnglish":"TIMIAT",
+      "ParentID":9
+   },
+   {
+      "ID":2209,
+      "NameArabic":"الجراني",
+      "NameEnglish":"AL JIRANI",
+      "ParentID":9
+   },
+   {
+      "ID":2220,
+      "NameArabic":"الدويد",
+      "NameEnglish":"AD DUWAYD",
+      "ParentID":9
+   },
+   {
+      "ID":2217,
+      "NameArabic":"الكاسب",
+      "NameEnglish":"AL KASIB",
+      "ParentID":9
+   },
+   {
+      "ID":2260,
+      "NameArabic":"ام رضمة",
+      "NameEnglish":"UMM RUDMAH",
+      "ParentID":9
+   },
+   {
+      "ID":2219,
+      "NameArabic":"حزم الجلاميد",
+      "NameEnglish":"HAZM AL JALAMID",
+      "ParentID":9
+   },
+   {
+      "ID":2262,
+      "NameArabic":"روضة هباس",
+      "NameEnglish":"RAWDAT HABBAS",
+      "ParentID":9
+   },
+   {
+      "ID":2259,
+      "NameArabic":"لوقة",
+      "NameEnglish":"LAWQAH",
+      "ParentID":9
+   },
+   {
+      "ID":2216,
+      "NameArabic":"أبا الرواث",
+      "NameEnglish":"ABA AR RAWATH",
+      "ParentID":9
+   },
+   {
+      "ID":2255,
+      "NameArabic":"إبن سوقي",
+      "NameEnglish":"IBN SUQI",
+      "ParentID":9
+   },
+   {
+      "ID":17888,
+      "NameArabic":"ابن عائش",
+      "NameEnglish":"IBN AESH",
+      "ParentID":9
+   },
+   {
+      "ID":17863,
+      "NameArabic":"الديدب",
+      "NameEnglish":"AL DIDAB",
+      "ParentID":9
+   },
+   {
+      "ID":3679,
+      "NameArabic":"السليمانية",
+      "NameEnglish":"AS SULAIMANIYAH",
+      "ParentID":9
+   },
+   {
+      "ID":2267,
+      "NameArabic":"المركوز",
+      "NameEnglish":"AL MARKUZ",
+      "ParentID":9
+   },
+   {
+      "ID":2221,
+      "NameArabic":"جديدة عرعر",
+      "NameEnglish":"JADIDAT \u0027AR\u0027AR",
+      "ParentID":9
+   },
+   {
+      "ID":2212,
+      "NameArabic":"قاع الحنو",
+      "NameEnglish":"QA\u0027 AL HINU",
+      "ParentID":9
+   },
+   {
+      "ID":2252,
+      "NameArabic":"مركز أم الحيران",
+      "NameEnglish":"MARKAZ UMM AL HIRAN",
+      "ParentID":9
+   },
+   {
+      "ID":2211,
+      "NameArabic":"نعيج",
+      "NameEnglish":"NU\u0027AYJ",
+      "ParentID":9
+   }
+]

@@ -1,0 +1,92 @@
+/*
+	 CSS-Tricks Example
+	 by Chris Coyier
+	 http://css-tricks.com
+*/
+@font-face {
+    font-family: Questv1Bold;
+    src: url("../../fonts/ArbFONTS-Questv1-Bold.otf");
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*html { background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(12, 109, 174) 0%, rgb(32, 179, 129) 43.2919%, rgb(12, 109, 174) 100%) repeat scroll 0% 0%; }*/
+html {
+    background: white;
+}
+
+body {
+    font-family: Questv1Bold, serif !important;
+    min-height: 350px;
+}
+
+#page-wrap {
+    margin: 0 auto;
+}
+
+#well {
+    background: rgba(0, 0, 0, 0) linear-gradient(90deg, #23B473 0%, #6e3c95 50%, #44215F 100%) repeat scroll 0% 0%;
+
+    padding: 14px 20px 12px 20px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+
+    /*background: -moz-linear-gradient(top, #010101, #181818);*/
+    /*background: -webkit-gradient(linear,left top,left bottom,color-stop(0, #010101),color-stop(1, #181818));*/
+
+    /*border: 2px solid #454545; */
+    overflow: hidden;
+
+    -webkit-user-select: none;
+    max-width: 800px;
+    width: 100%;
+    margin: auto;
+}
+
+h2 {
+    background: -moz-linear-gradient(left, #4d4d4d, 0.4, #4d4d4d, 0.5, white, 0.6, #4d4d4d, #4d4d4d);
+    background: -webkit-gradient(linear, left top, right top, color-stop(0, #4d4d4d), color-stop(0.4, #4d4d4d), color-stop(0.5, white), color-stop(0.6, #4d4d4d), color-stop(1, #4d4d4d));
+
+    -moz-background-clip: text;
+    -webkit-background-clip: text;
+
+    -moz-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
+
+    -webkit-animation: slidetounlock 5s infinite;
+
+    font-size: 4rem;
+    line-height: 1;
+    font-weight: bold;
+
+    padding: 0;
+    width: 200%;
+
+    -webkit-text-size-adjust: none;
+}
+
+h2 span {
+    padding: 0 40px;
+}
+
+#slider {
+    background: url(../images/arrow.png) no-repeat;
+    width: 146px;
+    height: 98px;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 1;
+
+}
+
+@-webkit-keyframes slidetounlock {
+    0% {
+        background-position: 720px 0;
+    }
+    100% {
+        background-position: -720px 0;
+    }
+}

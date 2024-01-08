@@ -1,0 +1,101 @@
+{
+    "site_dynamic_settings": [
+        {
+            "title" : "csd",
+            "description" : "6515621",
+            "type" : 1,
+            "image" : "gDxVie9da5UWuHs5BZYQiodxi0Ob0Ld2Q1PTq3i4.png",
+            "active" : 1
+        },
+        {
+            "title" : "csd",
+            "description" : "6515621",
+            "type" : 1,
+            "image" : "gDxVie9da5UWuHs5BZYQiodxi0Ob0Ld2Q1PTq3i4.png",
+            "active" : 1
+        },
+        {
+            "title" : "sdsds",
+            "description" : "dsddds",
+            "type" : 7,
+            "image" : "8Vjgl89qDBEXZwQgCqXaMYmtusbeNDFWvBFglhNR.png",
+            "active" : 1
+        },
+        {
+            "title" : null,
+            "description" : null,
+            "type" : 2,
+            "image" : "VGaPPY9MHj1mLwUVaoFVV3iLB0sr307vH2p9OnH6.png",
+            "active" : 1
+        },
+        {
+            "title" : null,
+            "description" : null,
+            "type" : 2,
+            "image" : "NAbUoR9sjFkDZfQy0fo8s8T6kgxUvUiNq35GcAzw.png",
+            "active" : 1
+        },
+        {
+            "title" : null,
+            "description" : null,
+            "type" : 2,
+            "image" : "YieQ2w2CXVaorI80jg7aagamaEPQPxVcDgcUnKHo.png",
+            "active" : 1
+        },
+        {
+            "title" : null,
+            "description" : null,
+            "type" : 2,
+            "image" : "cYZYd683Ru2vBFNQxBIhDmvKFJODtlid1H5n4WUk.png",
+            "active" : 1
+        },
+        {
+            "title" : null,
+            "description" : null,
+            "type" : 2,
+            "image" : "AIH0RY4mrIgAkYVSvSmvrhMNgjOkzWM6qXucsZK1.png",
+            "active" : 1
+        },
+        {
+            "title" : null,
+            "description" : null,
+            "type" : 2,
+            "image" : "dxJfQBoHy9LZhyIo605Sl95O2My2dhPDuWDesuGx.png",
+            "active" : 1
+        },
+        {
+            "title" : null,
+            "description" : null,
+            "type" : 1,
+            "image" : "ZNLNjSr8yPM04sTHMzMwO6VzSQ7m2tXPsfhDHvhL.png",
+            "active" : 1
+        },
+        {
+            "title" : "الإشراف والتوجيه من متخصصين في الحوكمة\r",
+            "description" : "منصة “حكومني”، التي تعد أول موقع “غير حكومي” في المملكة\nيوفر تقييماً دقيقاً ،يُساعد الجمعيات الأهلية على تطبيق\n المساءلة والشفافية",
+            "type" : 3,
+            "image" : "WTrQ9VX14hMwoGhc2bjusQPaOuEyamAqRsvNJ3QZ.png",
+            "active" : 1
+        },
+        {
+            "title" : "تطبيق معايير الحوكمة",
+            "description" : "منصة “حكومني”، التي تعد أول موقع “غير حكومي” في المملكة\nيوفر تقييماً دقيقاً ،يُساعد الجمعيات الأهلية على تطبيق\n المساءلة والشفافية",
+            "type" : 3,
+            "image" : "WTrQ9VX14hMwoGhc2bjusQPaOuEyamAqRsvNJ3QZ.png",
+            "active" : 1
+        },
+        {
+            "title" : "تقارير تطبيق معاييرالحوكمة\r",
+            "description" : "منصة “حكومني”، التي تعد أول موقع “غير حكومي” في المملكة\nيوفر تقييماً دقيقاً ،يُساعد الجمعيات الأهلية على تطبيق\n المساءلة والشفافية",
+            "type" : 3,
+            "image" : "WTrQ9VX14hMwoGhc2bjusQPaOuEyamAqRsvNJ3QZ.png",
+            "active" : 1
+        },
+        {
+            "title" : "تقييم ذاتي من خلال حساب الجمعية\r",
+            "description" : "منصة “حكومني”، التي تعد أول موقع “غير حكومي” في المملكة\nيوفر تقييماً دقيقاً ،يُساعد الجمعيات الأهلية على تطبيق\n المساءلة والشفافية",
+            "type" : 3,
+            "image" : "WTrQ9VX14hMwoGhc2bjusQPaOuEyamAqRsvNJ3QZ.png",
+            "active" : 1
+        }
+    ]}

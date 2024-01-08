@@ -1,0 +1,3986 @@
+[
+   {
+      "ID":15,
+      "NameArabic":"ابها",
+      "NameEnglish":"ABHA",
+      "ParentID":6
+   },
+   {
+      "ID":2519,
+      "NameArabic":"النماص",
+      "NameEnglish":"AN NAMAS (TANUMAH)",
+      "ParentID":6
+   },
+   {
+      "ID":1514,
+      "NameArabic":"بيشة",
+      "NameEnglish":"BISHAH",
+      "ParentID":6
+   },
+   {
+      "ID":62,
+      "NameArabic":"خميس مشيط",
+      "NameEnglish":"KHAMIS MUSHAYT",
+      "ParentID":6
+   },
+   {
+      "ID":1801,
+      "NameArabic":"محايل",
+      "NameEnglish":"MUHAYIL",
+      "ParentID":6
+   },
+   {
+      "ID":65,
+      "NameArabic":"احد رفيده",
+      "NameEnglish":"AHAD RIFAYDAH",
+      "ParentID":6
+   },
+   {
+      "ID":1294,
+      "NameArabic":"المجاردة",
+      "NameEnglish":"AL MAJARDAH",
+      "ParentID":6
+   },
+   {
+      "ID":1626,
+      "NameArabic":"بلقرن",
+      "NameEnglish":"BALQARN",
+      "ParentID":6
+   },
+   {
+      "ID":1443,
+      "NameArabic":"تثليث",
+      "NameEnglish":"TATHLITH",
+      "ParentID":6
+   },
+   {
+      "ID":1846,
+      "NameArabic":"رجال المع",
+      "NameEnglish":"RIJAL AL MA\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":3328,
+      "NameArabic":"سراة عبيدة",
+      "NameEnglish":"SARAT ABIDAH",
+      "ParentID":6
+   },
+   {
+      "ID":256,
+      "NameArabic":"طريب",
+      "NameEnglish":"TARIB",
+      "ParentID":6
+   },
+   {
+      "ID":3381,
+      "NameArabic":"ظهران الجنوب",
+      "NameEnglish":"DHAHRAN AL JANUB",
+      "ParentID":6
+   },
+   {
+      "ID":2893,
+      "NameArabic":"البرك",
+      "NameEnglish":"AL BIRK",
+      "ParentID":6
+   },
+   {
+      "ID":1518,
+      "NameArabic":"الحازمي",
+      "NameEnglish":"AL HAZMI",
+      "ParentID":6
+   },
+   {
+      "ID":1847,
+      "NameArabic":"السودة",
+      "NameEnglish":"AS SUDAH",
+      "ParentID":6
+   },
+   {
+      "ID":2944,
+      "NameArabic":"الشعف",
+      "NameEnglish":"ASH SHA\u0027AF",
+      "ParentID":6
+   },
+   {
+      "ID":3330,
+      "NameArabic":"الفرشة",
+      "NameEnglish":"AL FARSHAH",
+      "ParentID":6
+   },
+   {
+      "ID":1553,
+      "NameArabic":"القعرة",
+      "NameEnglish":"AL QA\u0027RAH",
+      "ParentID":6
+   },
+   {
+      "ID":1481,
+      "NameArabic":"النقيع",
+      "NameEnglish":"AN NAQI\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":1297,
+      "NameArabic":"بارق",
+      "NameEnglish":"BARIQ",
+      "ParentID":6
+   },
+   {
+      "ID":3678,
+      "NameArabic":"تندحة",
+      "NameEnglish":"TENDAHA",
+      "ParentID":6
+   },
+   {
+      "ID":3273,
+      "NameArabic":"تنومة",
+      "NameEnglish":"TANUMAH",
+      "ParentID":6
+   },
+   {
+      "ID":1709,
+      "NameArabic":"وادي ابن هشبل",
+      "NameEnglish":"WADI IBN HASHBAL",
+      "ParentID":6
+   },
+   {
+      "ID":1564,
+      "NameArabic":"آل سلمة",
+      "NameEnglish":"AL SALAMAH",
+      "ParentID":6
+   },
+   {
+      "ID":1453,
+      "NameArabic":"الامواه",
+      "NameEnglish":"AL AMWAH",
+      "ParentID":6
+   },
+   {
+      "ID":1508,
+      "NameArabic":"الثنية",
+      "NameEnglish":"ATH THINIYAH",
+      "ParentID":6
+   },
+   {
+      "ID":3332,
+      "NameArabic":"الجوة",
+      "NameEnglish":"AL JAWWAH",
+      "ParentID":6
+   },
+   {
+      "ID":1850,
+      "NameArabic":"الحبيل",
+      "NameEnglish":"AL HABIL",
+      "ParentID":6
+   },
+   {
+      "ID":1448,
+      "NameArabic":"الحمضة",
+      "NameEnglish":"AL HAMDAH",
+      "ParentID":6
+   },
+   {
+      "ID":1449,
+      "NameArabic":"الزرق",
+      "NameEnglish":"AZ ZURQ",
+      "ParentID":6
+   },
+   {
+      "ID":12351,
+      "NameArabic":"الشقيريه",
+      "NameEnglish":"AL SHUQAYRIYAH",
+      "ParentID":6
+   },
+   {
+      "ID":1454,
+      "NameArabic":"الصبيخة",
+      "NameEnglish":"AS SUBAYKHAH",
+      "ParentID":6
+   },
+   {
+      "ID":1452,
+      "NameArabic":"العين",
+      "NameEnglish":"AL \u0027AYN",
+      "ParentID":6
+   },
+   {
+      "ID":1447,
+      "NameArabic":"القيرة",
+      "NameEnglish":"AL QIRAH",
+      "ParentID":6
+   },
+   {
+      "ID":1670,
+      "NameArabic":"المضة",
+      "NameEnglish":"AL MADDAH",
+      "ParentID":6
+   },
+   {
+      "ID":1634,
+      "NameArabic":"باشوت",
+      "NameEnglish":"BASHUT",
+      "ParentID":6
+   },
+   {
+      "ID":3275,
+      "NameArabic":"بللسمر",
+      "NameEnglish":"BILLASMAR",
+      "ParentID":6
+   },
+   {
+      "ID":1517,
+      "NameArabic":"تبالة",
+      "NameEnglish":"TABALAH",
+      "ParentID":6
+   },
+   {
+      "ID":1174,
+      "NameArabic":"جمعة ربيعة",
+      "NameEnglish":"JUM\u0027AT AT RABIAH",
+      "ParentID":6
+   },
+   {
+      "ID":1450,
+      "NameArabic":"حبية",
+      "NameEnglish":"HABIYAH",
+      "ParentID":6
+   },
+   {
+      "ID":3682,
+      "NameArabic":"ختبة",
+      "NameEnglish":"KHATBAH",
+      "ParentID":6
+   },
+   {
+      "ID":1714,
+      "NameArabic":"خيبر الجنوب",
+      "NameEnglish":"KHAYBAR AL JANUB",
+      "ParentID":6
+   },
+   {
+      "ID":1372,
+      "NameArabic":"روام",
+      "NameEnglish":"RWAM",
+      "ParentID":6
+   },
+   {
+      "ID":1506,
+      "NameArabic":"صمخ",
+      "NameEnglish":"SAMAKH",
+      "ParentID":6
+   },
+   {
+      "ID":2968,
+      "NameArabic":"طبب",
+      "NameEnglish":"TABAB",
+      "ParentID":6
+   },
+   {
+      "ID":3362,
+      "NameArabic":"علب",
+      "NameEnglish":"ALB",
+      "ParentID":6
+   },
+   {
+      "ID":2895,
+      "NameArabic":"عمق",
+      "NameEnglish":"\u0027AMAQ",
+      "ParentID":6
+   },
+   {
+      "ID":1507,
+      "NameArabic":"الحفيرة",
+      "NameEnglish":"AL HUFAYRAH",
+      "ParentID":6
+   },
+   {
+      "ID":1746,
+      "NameArabic":"إبن عبيدي",
+      "NameEnglish":"IBN \u0027ABIDI",
+      "ParentID":6
+   },
+   {
+      "ID":1706,
+      "NameArabic":"إبن نجم",
+      "NameEnglish":"IBN NIJAM",
+      "ParentID":6
+   },
+   {
+      "ID":2925,
+      "NameArabic":"أبو جرشة",
+      "NameEnglish":"ABU JARSHAH",
+      "ParentID":6
+   },
+   {
+      "ID":1845,
+      "NameArabic":"أبو ذراع",
+      "NameEnglish":"ABU DHIRA\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":2922,
+      "NameArabic":"أبو نخلة",
+      "NameEnglish":"ABU NAKHLAH",
+      "ParentID":6
+   },
+   {
+      "ID":1647,
+      "NameArabic":"آل إثيبة",
+      "NameEnglish":"AL ITHIBAH",
+      "ParentID":6
+   },
+   {
+      "ID":3371,
+      "NameArabic":"آل الأشعث",
+      "NameEnglish":"AL AL ASH\u0027ATH",
+      "ParentID":6
+   },
+   {
+      "ID":1305,
+      "NameArabic":"آل التوم",
+      "NameEnglish":"AL AT TUM",
+      "ParentID":6
+   },
+   {
+      "ID":3285,
+      "NameArabic":"آل الجلدة",
+      "NameEnglish":"AL AL JILDAH",
+      "ParentID":6
+   },
+   {
+      "ID":3322,
+      "NameArabic":"آل الخلف",
+      "NameEnglish":"AL AL KHALAF",
+      "ParentID":6
+   },
+   {
+      "ID":1866,
+      "NameArabic":"آل الداحس",
+      "NameEnglish":"AL AD DAHIS",
+      "ParentID":6
+   },
+   {
+      "ID":1312,
+      "NameArabic":"آل الذيب",
+      "NameEnglish":"AL ADH DHIB",
+      "ParentID":6
+   },
+   {
+      "ID":1789,
+      "NameArabic":"آل الذيب",
+      "NameEnglish":"AL ADH DHIB",
+      "ParentID":6
+   },
+   {
+      "ID":1562,
+      "NameArabic":"آل الزارية",
+      "NameEnglish":"AL AZ ZARIYAH",
+      "ParentID":6
+   },
+   {
+      "ID":1304,
+      "NameArabic":"آل الشريفي",
+      "NameEnglish":"AL ASH SHIRAYFI",
+      "ParentID":6
+   },
+   {
+      "ID":2932,
+      "NameArabic":"آل الشيخ",
+      "NameEnglish":"AL ASH SHAYKH",
+      "ParentID":6
+   },
+   {
+      "ID":2656,
+      "NameArabic":"آل الصعدي",
+      "NameEnglish":"AL AS SA\u0027DI",
+      "ParentID":6
+   },
+   {
+      "ID":1698,
+      "NameArabic":"آل الهايلة",
+      "NameEnglish":"AL AL HAYILAH",
+      "ParentID":6
+   },
+   {
+      "ID":2928,
+      "NameArabic":"آل بالفلاح",
+      "NameEnglish":"AL BALFALAH",
+      "ParentID":6
+   },
+   {
+      "ID":2983,
+      "NameArabic":"آل بحبيب",
+      "NameEnglish":"AL BIHABIB",
+      "ParentID":6
+   },
+   {
+      "ID":2975,
+      "NameArabic":"آل بسام",
+      "NameEnglish":"AL BASSAM",
+      "ParentID":6
+   },
+   {
+      "ID":3252,
+      "NameArabic":"آل بو خشيف",
+      "NameEnglish":"AL BUKHISHAYF",
+      "ParentID":6
+   },
+   {
+      "ID":3358,
+      "NameArabic":"آل بيضاء",
+      "NameEnglish":"AL BAYDA",
+      "ParentID":6
+   },
+   {
+      "ID":3353,
+      "NameArabic":"آل ثابت",
+      "NameEnglish":"AL THABIT",
+      "ParentID":6
+   },
+   {
+      "ID":1719,
+      "NameArabic":"آل ثوبان",
+      "NameEnglish":"AL THAWBAN",
+      "ParentID":6
+   },
+   {
+      "ID":3374,
+      "NameArabic":"آل جحالي",
+      "NameEnglish":"AL JIHALI",
+      "ParentID":6
+   },
+   {
+      "ID":1699,
+      "NameArabic":"آل جرمان",
+      "NameEnglish":"AL JARMAN",
+      "ParentID":6
+   },
+   {
+      "ID":3309,
+      "NameArabic":"آل جلال",
+      "NameEnglish":"AL JALLAL",
+      "ParentID":6
+   },
+   {
+      "ID":2918,
+      "NameArabic":"آل جمعة",
+      "NameEnglish":"AL JUM\u0027AH",
+      "ParentID":6
+   },
+   {
+      "ID":1644,
+      "NameArabic":"آل جودة",
+      "NameEnglish":"AL JAWDAH",
+      "ParentID":6
+   },
+   {
+      "ID":2897,
+      "NameArabic":"آل حامد",
+      "NameEnglish":"AL HAMID",
+      "ParentID":6
+   },
+   {
+      "ID":1871,
+      "NameArabic":"آل حديلة",
+      "NameEnglish":"AL HIDAYLAH",
+      "ParentID":6
+   },
+   {
+      "ID":1658,
+      "NameArabic":"آل حضينان",
+      "NameEnglish":"AL HIDAYNAN",
+      "ParentID":6
+   },
+   {
+      "ID":1872,
+      "NameArabic":"آل حلامي",
+      "NameEnglish":"AL HILAMI",
+      "ParentID":6
+   },
+   {
+      "ID":16303,
+      "NameArabic":"آل خجيم",
+      "NameEnglish":"AL KHUJAIM",
+      "ParentID":6
+   },
+   {
+      "ID":2529,
+      "NameArabic":"آل خضاري",
+      "NameEnglish":"AL KHIDARI",
+      "ParentID":6
+   },
+   {
+      "ID":2661,
+      "NameArabic":"آل دحمان",
+      "NameEnglish":"AL DAHMAN",
+      "ParentID":6
+   },
+   {
+      "ID":2976,
+      "NameArabic":"آل دكين",
+      "NameEnglish":"AL DUKAYN",
+      "ParentID":6
+   },
+   {
+      "ID":1855,
+      "NameArabic":"آل دلهم",
+      "NameEnglish":"AL DALHAM",
+      "ParentID":6
+   },
+   {
+      "ID":3711,
+      "NameArabic":"آل رحمة",
+      "NameEnglish":"AL RAHMAH",
+      "ParentID":6
+   },
+   {
+      "ID":1867,
+      "NameArabic":"آل زهير",
+      "NameEnglish":"AL ZUHAYR",
+      "ParentID":6
+   },
+   {
+      "ID":2951,
+      "NameArabic":"آل زيدي",
+      "NameEnglish":"AL ZAYDI",
+      "ParentID":6
+   },
+   {
+      "ID":3261,
+      "NameArabic":"آل سخيطة",
+      "NameEnglish":"AL SAKHAYTAH",
+      "ParentID":6
+   },
+   {
+      "ID":2936,
+      "NameArabic":"آل سرحان",
+      "NameEnglish":"AL SIRHAN",
+      "ParentID":6
+   },
+   {
+      "ID":1696,
+      "NameArabic":"آل سعيد",
+      "NameEnglish":"AL SA\u0027ID",
+      "ParentID":6
+   },
+   {
+      "ID":3307,
+      "NameArabic":"آل سعيدة",
+      "NameEnglish":"AL SA\u0027IDAH",
+      "ParentID":6
+   },
+   {
+      "ID":1641,
+      "NameArabic":"آل سفيان",
+      "NameEnglish":"AL SUFYAN",
+      "ParentID":6
+   },
+   {
+      "ID":1306,
+      "NameArabic":"آل سويد",
+      "NameEnglish":"AL SUWAYD",
+      "ParentID":6
+   },
+   {
+      "ID":1792,
+      "NameArabic":"آل شدادي",
+      "NameEnglish":"AL SHADDADI",
+      "ParentID":6
+   },
+   {
+      "ID":1703,
+      "NameArabic":"آل شويل",
+      "NameEnglish":"AL SHUWAYL",
+      "ParentID":6
+   },
+   {
+      "ID":1661,
+      "NameArabic":"آل صقر",
+      "NameEnglish":"AL SAQR",
+      "ParentID":6
+   },
+   {
+      "ID":3290,
+      "NameArabic":"آل صنيج",
+      "NameEnglish":"AL SUNAYJ",
+      "ParentID":6
+   },
+   {
+      "ID":2953,
+      "NameArabic":"آل عاصم",
+      "NameEnglish":"AL \u0027ASIM",
+      "ParentID":6
+   },
+   {
+      "ID":1793,
+      "NameArabic":"آل عاصمي",
+      "NameEnglish":"AL \u0027ASIMI",
+      "ParentID":6
+   },
+   {
+      "ID":1870,
+      "NameArabic":"آل عامر",
+      "NameEnglish":"AL \u0027AMIR",
+      "ParentID":6
+   },
+   {
+      "ID":1617,
+      "NameArabic":"آل عامر",
+      "NameEnglish":"AL \u0027AMIR",
+      "ParentID":6
+   },
+   {
+      "ID":3256,
+      "NameArabic":"آل عباس",
+      "NameEnglish":"AL \u0027ABBAS",
+      "ParentID":6
+   },
+   {
+      "ID":3263,
+      "NameArabic":"آل عبيد",
+      "NameEnglish":"AL \u0027UBAYD",
+      "ParentID":6
+   },
+   {
+      "ID":3291,
+      "NameArabic":"آل عرفان",
+      "NameEnglish":"AL \u0027URFAN",
+      "ParentID":6
+   },
+   {
+      "ID":1859,
+      "NameArabic":"آل عرق",
+      "NameEnglish":"AL \u0027IRQ",
+      "ParentID":6
+   },
+   {
+      "ID":2667,
+      "NameArabic":"آل عزة",
+      "NameEnglish":"AL \u0027AZZAH",
+      "ParentID":6
+   },
+   {
+      "ID":2947,
+      "NameArabic":"آل علي",
+      "NameEnglish":"AL \u0027ALI",
+      "ParentID":6
+   },
+   {
+      "ID":3357,
+      "NameArabic":"آل عليا",
+      "NameEnglish":"AL \u0027ALYA",
+      "ParentID":6
+   },
+   {
+      "ID":1734,
+      "NameArabic":"آل علين",
+      "NameEnglish":"AL \u0027ILLIN",
+      "ParentID":6
+   },
+   {
+      "ID":3373,
+      "NameArabic":"آل عمران",
+      "NameEnglish":"AL \u0027IMRAN",
+      "ParentID":6
+   },
+   {
+      "ID":1865,
+      "NameArabic":"آل عمرة",
+      "NameEnglish":"AL \u0027AMRAH",
+      "ParentID":6
+   },
+   {
+      "ID":1822,
+      "NameArabic":"آل عيسى",
+      "NameEnglish":"AL \u0027ISA",
+      "ParentID":6
+   },
+   {
+      "ID":3325,
+      "NameArabic":"آل غبران",
+      "NameEnglish":"AL GHUBRAN",
+      "ParentID":6
+   },
+   {
+      "ID":3278,
+      "NameArabic":"آل غلفق",
+      "NameEnglish":"AL GHALFAQ",
+      "ParentID":6
+   },
+   {
+      "ID":1303,
+      "NameArabic":"آل غيثان",
+      "NameEnglish":"AL GHAYTHAN",
+      "ParentID":6
+   },
+   {
+      "ID":1650,
+      "NameArabic":"آل فارس",
+      "NameEnglish":"AL FARIS",
+      "ParentID":6
+   },
+   {
+      "ID":3266,
+      "NameArabic":"آل فرش",
+      "NameEnglish":"AL FARSH",
+      "ParentID":6
+   },
+   {
+      "ID":3288,
+      "NameArabic":"آل فهيد",
+      "NameEnglish":"AL FUHAYD",
+      "ParentID":6
+   },
+   {
+      "ID":13989,
+      "NameArabic":"آل قبره والقوزيه",
+      "NameEnglish":"AL QIBRAH AL QUOZIYAH",
+      "ParentID":6
+   },
+   {
+      "ID":1851,
+      "NameArabic":"آل قفيع",
+      "NameEnglish":"AL QIFAY\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":3304,
+      "NameArabic":"آل قنبة",
+      "NameEnglish":"AL QUNBAH",
+      "ParentID":6
+   },
+   {
+      "ID":2984,
+      "NameArabic":"آل قوشع",
+      "NameEnglish":"AL QAWSHA\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":3292,
+      "NameArabic":"آل كشيم",
+      "NameEnglish":"AL KUSHAYM",
+      "ParentID":6
+   },
+   {
+      "ID":3308,
+      "NameArabic":"آل كولت",
+      "NameEnglish":"AL KULAT",
+      "ParentID":6
+   },
+   {
+      "ID":3276,
+      "NameArabic":"آل لجم",
+      "NameEnglish":"AL LAJAM",
+      "ParentID":6
+   },
+   {
+      "ID":1853,
+      "NameArabic":"آل لغر",
+      "NameEnglish":"AL LAGHIR",
+      "ParentID":6
+   },
+   {
+      "ID":3387,
+      "NameArabic":"آل لهوة",
+      "NameEnglish":"AL LAHWAH",
+      "ParentID":6
+   },
+   {
+      "ID":1857,
+      "NameArabic":"آل لوط",
+      "NameEnglish":"AL LUT",
+      "ParentID":6
+   },
+   {
+      "ID":3323,
+      "NameArabic":"آل مانع",
+      "NameEnglish":"AL MANI\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":1827,
+      "NameArabic":"آل متعالي",
+      "NameEnglish":"AL MUT\u0027ALI",
+      "ParentID":6
+   },
+   {
+      "ID":2654,
+      "NameArabic":"آل مجادب",
+      "NameEnglish":"AL MIJADIB",
+      "ParentID":6
+   },
+   {
+      "ID":1817,
+      "NameArabic":"آل مجم",
+      "NameEnglish":"AL MAJAM",
+      "ParentID":6
+   },
+   {
+      "ID":2966,
+      "NameArabic":"آل مجمل",
+      "NameEnglish":"AL MUJAMMAL",
+      "ParentID":6
+   },
+   {
+      "ID":1729,
+      "NameArabic":"آل محصن",
+      "NameEnglish":"AL MUHSUN",
+      "ParentID":6
+   },
+   {
+      "ID":3310,
+      "NameArabic":"آل محي",
+      "NameEnglish":"AL MIHI",
+      "ParentID":6
+   },
+   {
+      "ID":3255,
+      "NameArabic":"آل مخلد",
+      "NameEnglish":"AL MAKHLAD",
+      "ParentID":6
+   },
+   {
+      "ID":1309,
+      "NameArabic":"آل مريح",
+      "NameEnglish":"AL MIRAYYIH",
+      "ParentID":6
+   },
+   {
+      "ID":3264,
+      "NameArabic":"آل مشاعر",
+      "NameEnglish":"AL MISHA\u0027IR",
+      "ParentID":6
+   },
+   {
+      "ID":2980,
+      "NameArabic":"آل مشدود",
+      "NameEnglish":"AL MASHDUD",
+      "ParentID":6
+   },
+   {
+      "ID":1869,
+      "NameArabic":"آل مشهور",
+      "NameEnglish":"AL MASHHUR",
+      "ParentID":6
+   },
+   {
+      "ID":1831,
+      "NameArabic":"آل مصم",
+      "NameEnglish":"AL MASAM",
+      "ParentID":6
+   },
+   {
+      "ID":3257,
+      "NameArabic":"آل مضرة",
+      "NameEnglish":"AL MIDRAH",
+      "ParentID":6
+   },
+   {
+      "ID":3301,
+      "NameArabic":"آل معدي",
+      "NameEnglish":"AL MA\u0027ADDI",
+      "ParentID":6
+   },
+   {
+      "ID":1763,
+      "NameArabic":"آل معلوي",
+      "NameEnglish":"AL MA\u0027LAWI",
+      "ParentID":6
+   },
+   {
+      "ID":3359,
+      "NameArabic":"آل معمر",
+      "NameEnglish":"AL MU\u0027AMMAR",
+      "ParentID":6
+   },
+   {
+      "ID":1858,
+      "NameArabic":"آل مكر",
+      "NameEnglish":"AL MAKIR",
+      "ParentID":6
+   },
+   {
+      "ID":2977,
+      "NameArabic":"آل مهدي",
+      "NameEnglish":"AL MAHADI",
+      "ParentID":6
+   },
+   {
+      "ID":1788,
+      "NameArabic":"آل ناهية",
+      "NameEnglish":"AL NAHIYAH",
+      "ParentID":6
+   },
+   {
+      "ID":2938,
+      "NameArabic":"آل يزيد",
+      "NameEnglish":"AL YAZID",
+      "ParentID":6
+   },
+   {
+      "ID":1552,
+      "NameArabic":"آل يزيد",
+      "NameEnglish":"AL YAZID",
+      "ParentID":6
+   },
+   {
+      "ID":3380,
+      "NameArabic":"آل يعلى",
+      "NameEnglish":"AL YA\u0027LA",
+      "ParentID":6
+   },
+   {
+      "ID":2898,
+      "NameArabic":"آل يوسف",
+      "NameEnglish":"AL YUSUF",
+      "ParentID":6
+   },
+   {
+      "ID":1485,
+      "NameArabic":"أم الفروغ",
+      "NameEnglish":"UMM AL FURUGH",
+      "ParentID":6
+   },
+   {
+      "ID":2527,
+      "NameArabic":"أم خيسة",
+      "NameEnglish":"UMM KHISAH",
+      "ParentID":6
+   },
+   {
+      "ID":1284,
+      "NameArabic":"أم شعبين",
+      "NameEnglish":"UMM SH\u0027BAYN",
+      "ParentID":6
+   },
+   {
+      "ID":1718,
+      "NameArabic":"أم ضحي",
+      "NameEnglish":"UMM DAHI",
+      "ParentID":6
+   },
+   {
+      "ID":1722,
+      "NameArabic":"أم ظهور الرفود",
+      "NameEnglish":"UMM DHUHUR AR RAFUD",
+      "ParentID":6
+   },
+   {
+      "ID":1281,
+      "NameArabic":"أم فرع",
+      "NameEnglish":"UMM FURA\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":2921,
+      "NameArabic":"إيتارة",
+      "NameEnglish":"ITARAH",
+      "ParentID":6
+   },
+   {
+      "ID":1565,
+      "NameArabic":"ال الشيخ",
+      "NameEnglish":"AL ASH SHAYKH",
+      "ParentID":6
+   },
+   {
+      "ID":1710,
+      "NameArabic":"ال بي ثور",
+      "NameEnglish":"AL BI THAWR",
+      "ParentID":6
+   },
+   {
+      "ID":1446,
+      "NameArabic":"ال خميسة",
+      "NameEnglish":"AL KHUMAYSAH",
+      "ParentID":6
+   },
+   {
+      "ID":1444,
+      "NameArabic":"ال سويدان",
+      "NameEnglish":"AL SUWAYDAN",
+      "ParentID":6
+   },
+   {
+      "ID":1445,
+      "NameArabic":"ال عيفان",
+      "NameEnglish":"AL AYFAN",
+      "ParentID":6
+   },
+   {
+      "ID":1833,
+      "NameArabic":"الأثل",
+      "NameEnglish":"AL ATHL",
+      "ParentID":6
+   },
+   {
+      "ID":2890,
+      "NameArabic":"الأجرع الشمالي",
+      "NameEnglish":"AL AJRA\u0027 ASH SHAMALI",
+      "ParentID":6
+   },
+   {
+      "ID":1288,
+      "NameArabic":"الأحسر",
+      "NameEnglish":"AL AHSAR",
+      "ParentID":6
+   },
+   {
+      "ID":3277,
+      "NameArabic":"الاثنين",
+      "NameEnglish":"AL ITHNAYN",
+      "ParentID":6
+   },
+   {
+      "ID":2949,
+      "NameArabic":"البارك",
+      "NameEnglish":"AL BARIK",
+      "ParentID":6
+   },
+   {
+      "ID":1738,
+      "NameArabic":"البارك",
+      "NameEnglish":"AL BARIK",
+      "ParentID":6
+   },
+   {
+      "ID":1716,
+      "NameArabic":"الباعق",
+      "NameEnglish":"AL BA\u0027IQ",
+      "ParentID":6
+   },
+   {
+      "ID":1473,
+      "NameArabic":"الباقرة",
+      "NameEnglish":"AL BAQIRAH",
+      "ParentID":6
+   },
+   {
+      "ID":1759,
+      "NameArabic":"البجيلي",
+      "NameEnglish":"AL BAJILI",
+      "ParentID":6
+   },
+   {
+      "ID":1642,
+      "NameArabic":"البدلة",
+      "NameEnglish":"AL BADLAH",
+      "ParentID":6
+   },
+   {
+      "ID":2899,
+      "NameArabic":"البدلة",
+      "NameEnglish":"AL BADLAH",
+      "ParentID":6
+   },
+   {
+      "ID":1694,
+      "NameArabic":"البردان",
+      "NameEnglish":"AL BURDAN",
+      "ParentID":6
+   },
+   {
+      "ID":1674,
+      "NameArabic":"البرقاء",
+      "NameEnglish":"AL BARQA",
+      "ParentID":6
+   },
+   {
+      "ID":1566,
+      "NameArabic":"البشائر",
+      "NameEnglish":"AL BASHAIR",
+      "ParentID":6
+   },
+   {
+      "ID":1666,
+      "NameArabic":"البطنة",
+      "NameEnglish":"AL BATNAH",
+      "ParentID":6
+   },
+   {
+      "ID":1550,
+      "NameArabic":"البظاظة",
+      "NameEnglish":"AL BADHDHADHAH",
+      "ParentID":6
+   },
+   {
+      "ID":1683,
+      "NameArabic":"البغث",
+      "NameEnglish":"AL BAGHATH",
+      "ParentID":6
+   },
+   {
+      "ID":1555,
+      "NameArabic":"البلس",
+      "NameEnglish":"AL BALAS",
+      "ParentID":6
+   },
+   {
+      "ID":1497,
+      "NameArabic":"البهيم",
+      "NameEnglish":"AL BAHIM",
+      "ParentID":6
+   },
+   {
+      "ID":2941,
+      "NameArabic":"البهيمة",
+      "NameEnglish":"AL BIHAYMAH",
+      "ParentID":6
+   },
+   {
+      "ID":1679,
+      "NameArabic":"الثعيلبة",
+      "NameEnglish":"ATH THU\u0027AYLIBAH",
+      "ParentID":6
+   },
+   {
+      "ID":1437,
+      "NameArabic":"الجازع",
+      "NameEnglish":"AL JAZI\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":1747,
+      "NameArabic":"الجبهة",
+      "NameEnglish":"AL JABHAH",
+      "ParentID":6
+   },
+   {
+      "ID":2943,
+      "NameArabic":"الجر الصغير",
+      "NameEnglish":"AL JARR AS SAGHIR",
+      "ParentID":6
+   },
+   {
+      "ID":3354,
+      "NameArabic":"الجربة",
+      "NameEnglish":"AL JIRBAH",
+      "ParentID":6
+   },
+   {
+      "ID":617,
+      "NameArabic":"الجربوعية",
+      "NameEnglish":"AL JARBOEYYAH",
+      "ParentID":6
+   },
+   {
+      "ID":2913,
+      "NameArabic":"الجرجر",
+      "NameEnglish":"AL JARJAR",
+      "ParentID":6
+   },
+   {
+      "ID":1766,
+      "NameArabic":"الجردان",
+      "NameEnglish":"AL JARDAN",
+      "ParentID":6
+   },
+   {
+      "ID":1814,
+      "NameArabic":"الجرف",
+      "NameEnglish":"AL JARF",
+      "ParentID":6
+   },
+   {
+      "ID":1837,
+      "NameArabic":"الجرف",
+      "NameEnglish":"AL JARF",
+      "ParentID":6
+   },
+   {
+      "ID":2882,
+      "NameArabic":"الجرمة",
+      "NameEnglish":"AL JIRMAH",
+      "ParentID":6
+   },
+   {
+      "ID":2979,
+      "NameArabic":"الجزعة",
+      "NameEnglish":"AL JUZ\u0027AH",
+      "ParentID":6
+   },
+   {
+      "ID":1825,
+      "NameArabic":"الجزوة",
+      "NameEnglish":"AL JAZWAH",
+      "ParentID":6
+   },
+   {
+      "ID":1440,
+      "NameArabic":"الجزيرة",
+      "NameEnglish":"AL JAZIRAH",
+      "ParentID":6
+   },
+   {
+      "ID":2916,
+      "NameArabic":"الجعجاع",
+      "NameEnglish":"AL JA\u0027JA\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":2662,
+      "NameArabic":"الجفر",
+      "NameEnglish":"AL JAFR",
+      "ParentID":6
+   },
+   {
+      "ID":3303,
+      "NameArabic":"الجلدة",
+      "NameEnglish":"AL JILDAH",
+      "ParentID":6
+   },
+   {
+      "ID":2954,
+      "NameArabic":"الجنفور",
+      "NameEnglish":"AL JANFUR",
+      "ParentID":6
+   },
+   {
+      "ID":1483,
+      "NameArabic":"الجنينة",
+      "NameEnglish":"AL JUNAYNAH",
+      "ParentID":6
+   },
+   {
+      "ID":2981,
+      "NameArabic":"الجهمة",
+      "NameEnglish":"AL JIHMAH",
+      "ParentID":6
+   },
+   {
+      "ID":1733,
+      "NameArabic":"الحاجب",
+      "NameEnglish":"AL HAJIB",
+      "ParentID":6
+   },
+   {
+      "ID":3361,
+      "NameArabic":"الحاجر",
+      "NameEnglish":"AL HAJIR",
+      "ParentID":6
+   },
+   {
+      "ID":1687,
+      "NameArabic":"الحامض",
+      "NameEnglish":"AL HAMID",
+      "ParentID":6
+   },
+   {
+      "ID":1715,
+      "NameArabic":"الحثدة",
+      "NameEnglish":"AL HITHADAH",
+      "ParentID":6
+   },
+   {
+      "ID":1741,
+      "NameArabic":"الحجف",
+      "NameEnglish":"AL HAJF",
+      "ParentID":6
+   },
+   {
+      "ID":1505,
+      "NameArabic":"الحجون",
+      "NameEnglish":"AL HAJUN",
+      "ParentID":6
+   },
+   {
+      "ID":3289,
+      "NameArabic":"الحدباء",
+      "NameEnglish":"AL HADBA",
+      "ParentID":6
+   },
+   {
+      "ID":3311,
+      "NameArabic":"الحدباء",
+      "NameEnglish":"AL HADBA",
+      "ParentID":6
+   },
+   {
+      "ID":1646,
+      "NameArabic":"الحدباء",
+      "NameEnglish":"AL HADBA",
+      "ParentID":6
+   },
+   {
+      "ID":1750,
+      "NameArabic":"الحدبات",
+      "NameEnglish":"AL HADABAT",
+      "ParentID":6
+   },
+   {
+      "ID":3293,
+      "NameArabic":"الحذيان",
+      "NameEnglish":"AL HADHYAN",
+      "ParentID":6
+   },
+   {
+      "ID":1748,
+      "NameArabic":"الحرة",
+      "NameEnglish":"AL HARRAH",
+      "ParentID":6
+   },
+   {
+      "ID":1551,
+      "NameArabic":"الحرجة",
+      "NameEnglish":"AL HARAJAH",
+      "ParentID":6
+   },
+   {
+      "ID":3383,
+      "NameArabic":"الحرجه",
+      "NameEnglish":"AL HARAJAH",
+      "ParentID":6
+   },
+   {
+      "ID":1476,
+      "NameArabic":"الحرف",
+      "NameEnglish":"AL HARF",
+      "ParentID":6
+   },
+   {
+      "ID":1433,
+      "NameArabic":"الحرفين",
+      "NameEnglish":"AL HARFAYN",
+      "ParentID":6
+   },
+   {
+      "ID":1685,
+      "NameArabic":"الحرفين",
+      "NameEnglish":"AL HARFAYN",
+      "ParentID":6
+   },
+   {
+      "ID":1479,
+      "NameArabic":"الحريرة",
+      "NameEnglish":"AL HURAYRAH",
+      "ParentID":6
+   },
+   {
+      "ID":1848,
+      "NameArabic":"الحريضة",
+      "NameEnglish":"AL HURAYDAH",
+      "ParentID":6
+   },
+   {
+      "ID":3327,
+      "NameArabic":"الحريقة",
+      "NameEnglish":"AL HARIQAH",
+      "ParentID":6
+   },
+   {
+      "ID":2883,
+      "NameArabic":"الحشافة",
+      "NameEnglish":"AL HASHAFAH",
+      "ParentID":6
+   },
+   {
+      "ID":1754,
+      "NameArabic":"الحشف",
+      "NameEnglish":"AL HASHAF",
+      "ParentID":6
+   },
+   {
+      "ID":1563,
+      "NameArabic":"الحصباء",
+      "NameEnglish":"AL HASBA",
+      "ParentID":6
+   },
+   {
+      "ID":1561,
+      "NameArabic":"الحصنة",
+      "NameEnglish":"AL HUSANAH",
+      "ParentID":6
+   },
+   {
+      "ID":1818,
+      "NameArabic":"الحصون",
+      "NameEnglish":"AL HUSUN",
+      "ParentID":6
+   },
+   {
+      "ID":1810,
+      "NameArabic":"الحضن",
+      "NameEnglish":"AL HADAN",
+      "ParentID":6
+   },
+   {
+      "ID":1735,
+      "NameArabic":"الحضن",
+      "NameEnglish":"AL HUDN",
+      "ParentID":6
+   },
+   {
+      "ID":3377,
+      "NameArabic":"الحظيرة",
+      "NameEnglish":"AL HADHIRAH",
+      "ParentID":6
+   },
+   {
+      "ID":2896,
+      "NameArabic":"الحظيرة",
+      "NameEnglish":"AL HADHIRAH",
+      "ParentID":6
+   },
+   {
+      "ID":3267,
+      "NameArabic":"الحفاة",
+      "NameEnglish":"AL HUFAH",
+      "ParentID":6
+   },
+   {
+      "ID":3283,
+      "NameArabic":"الحكيمة",
+      "NameEnglish":"AL HAKIMAH",
+      "ParentID":6
+   },
+   {
+      "ID":1295,
+      "NameArabic":"الحمة",
+      "NameEnglish":"AL HIMAH",
+      "ParentID":6
+   },
+   {
+      "ID":1655,
+      "NameArabic":"الحميطة",
+      "NameEnglish":"AL HUMAYYITAH",
+      "ParentID":6
+   },
+   {
+      "ID":3312,
+      "NameArabic":"الحنجور",
+      "NameEnglish":"AL HUNJUR",
+      "ParentID":6
+   },
+   {
+      "ID":2964,
+      "NameArabic":"الحنق",
+      "NameEnglish":"AL HANAQ",
+      "ParentID":6
+   },
+   {
+      "ID":3313,
+      "NameArabic":"الحنو",
+      "NameEnglish":"AL HINU",
+      "ParentID":6
+   },
+   {
+      "ID":1441,
+      "NameArabic":"الحنيك",
+      "NameEnglish":"AL HANEK",
+      "ParentID":6
+   },
+   {
+      "ID":1701,
+      "NameArabic":"الحواويش",
+      "NameEnglish":"AL HAWAWISH",
+      "ParentID":6
+   },
+   {
+      "ID":1292,
+      "NameArabic":"الحيد عبس",
+      "NameEnglish":"AL HAYD \u0027ABS",
+      "ParentID":6
+   },
+   {
+      "ID":1668,
+      "NameArabic":"الحيفة",
+      "NameEnglish":"AL HIFAH",
+      "ParentID":6
+   },
+   {
+      "ID":1495,
+      "NameArabic":"الحيفة",
+      "NameEnglish":"AL HIFAH",
+      "ParentID":6
+   },
+   {
+      "ID":1720,
+      "NameArabic":"الحيلة",
+      "NameEnglish":"AL HAYLAH",
+      "ParentID":6
+   },
+   {
+      "ID":1665,
+      "NameArabic":"الحيمة",
+      "NameEnglish":"AL HAYMAH",
+      "ParentID":6
+   },
+   {
+      "ID":3241,
+      "NameArabic":"الخاضرة",
+      "NameEnglish":"AL KHADIRAH",
+      "ParentID":6
+   },
+   {
+      "ID":1771,
+      "NameArabic":"الخبارة",
+      "NameEnglish":"AL KHABARAH",
+      "ParentID":6
+   },
+   {
+      "ID":1660,
+      "NameArabic":"الخرب",
+      "NameEnglish":"AL KHARB",
+      "ParentID":6
+   },
+   {
+      "ID":2926,
+      "NameArabic":"الخشم",
+      "NameEnglish":"AL KHASHM",
+      "ParentID":6
+   },
+   {
+      "ID":1691,
+      "NameArabic":"الخضاير",
+      "NameEnglish":"AL KHADAYIR",
+      "ParentID":6
+   },
+   {
+      "ID":1519,
+      "NameArabic":"الخضراء",
+      "NameEnglish":"AL KHADRA",
+      "ParentID":6
+   },
+   {
+      "ID":3246,
+      "NameArabic":"الخضراء",
+      "NameEnglish":"AL KHADRA",
+      "ParentID":6
+   },
+   {
+      "ID":3378,
+      "NameArabic":"الخضراء",
+      "NameEnglish":"AL KHADRA",
+      "ParentID":6
+   },
+   {
+      "ID":1849,
+      "NameArabic":"الخطوة",
+      "NameEnglish":"AL KHUTWAH",
+      "ParentID":6
+   },
+   {
+      "ID":1764,
+      "NameArabic":"الخطيم",
+      "NameEnglish":"AL KHUTAYM",
+      "ParentID":6
+   },
+   {
+      "ID":1470,
+      "NameArabic":"الخليج",
+      "NameEnglish":"AL KHALIJ",
+      "ParentID":6
+   },
+   {
+      "ID":1756,
+      "NameArabic":"الخليف",
+      "NameEnglish":"AL KHALIF",
+      "ParentID":6
+   },
+   {
+      "ID":1273,
+      "NameArabic":"الخوش",
+      "NameEnglish":"AL KHAWSH",
+      "ParentID":6
+   },
+   {
+      "ID":2912,
+      "NameArabic":"الدارة",
+      "NameEnglish":"AD DARAH",
+      "ParentID":6
+   },
+   {
+      "ID":3243,
+      "NameArabic":"الدحض",
+      "NameEnglish":"AD DAHID",
+      "ParentID":6
+   },
+   {
+      "ID":1478,
+      "NameArabic":"الدحو",
+      "NameEnglish":"AD DIHU",
+      "ParentID":6
+   },
+   {
+      "ID":1862,
+      "NameArabic":"الدرب",
+      "NameEnglish":"AD DARB",
+      "ParentID":6
+   },
+   {
+      "ID":3317,
+      "NameArabic":"الدربين",
+      "NameEnglish":"AD DARBAYN",
+      "ParentID":6
+   },
+   {
+      "ID":1436,
+      "NameArabic":"الدريب",
+      "NameEnglish":"AD DIRAYB",
+      "ParentID":6
+   },
+   {
+      "ID":1808,
+      "NameArabic":"الدماغ",
+      "NameEnglish":"AD DIMAGH",
+      "ParentID":6
+   },
+   {
+      "ID":1515,
+      "NameArabic":"الديلمي",
+      "NameEnglish":"AD DAILAMI",
+      "ParentID":6
+   },
+   {
+      "ID":1820,
+      "NameArabic":"الذروة",
+      "NameEnglish":"ADH DHURWAH",
+      "ParentID":6
+   },
+   {
+      "ID":1651,
+      "NameArabic":"الذفراء",
+      "NameEnglish":"ADH DHAFRA",
+      "ParentID":6
+   },
+   {
+      "ID":1840,
+      "NameArabic":"الراحة",
+      "NameEnglish":"AR RAHAH",
+      "ParentID":6
+   },
+   {
+      "ID":1757,
+      "NameArabic":"الراحة",
+      "NameEnglish":"AR RAHAH",
+      "ParentID":6
+   },
+   {
+      "ID":3305,
+      "NameArabic":"الربعة",
+      "NameEnglish":"AR RIBA\u0027AH",
+      "ParentID":6
+   },
+   {
+      "ID":3331,
+      "NameArabic":"الربوعة",
+      "NameEnglish":"AR RABUAH",
+      "ParentID":6
+   },
+   {
+      "ID":1656,
+      "NameArabic":"الرشداء",
+      "NameEnglish":"AR RASHDA",
+      "ParentID":6
+   },
+   {
+      "ID":1812,
+      "NameArabic":"الرصعة",
+      "NameEnglish":"AR RAS\u0027AH",
+      "ParentID":6
+   },
+   {
+      "ID":2880,
+      "NameArabic":"الرعي",
+      "NameEnglish":"AR RA\u0027Y",
+      "ParentID":6
+   },
+   {
+      "ID":1482,
+      "NameArabic":"الرفائع",
+      "NameEnglish":"AR RAFAI\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":3284,
+      "NameArabic":"الرقوة",
+      "NameEnglish":"AR RAQWAH",
+      "ParentID":6
+   },
+   {
+      "ID":1516,
+      "NameArabic":"الرقيطاء",
+      "NameEnglish":"AR RUQAITA\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":3297,
+      "NameArabic":"الرمضة",
+      "NameEnglish":"AR RUMADAH",
+      "ParentID":6
+   },
+   {
+      "ID":2665,
+      "NameArabic":"الرهوة",
+      "NameEnglish":"AR RAHWAH",
+      "ParentID":6
+   },
+   {
+      "ID":2957,
+      "NameArabic":"الرهوة",
+      "NameEnglish":"AR RAHWAH",
+      "ParentID":6
+   },
+   {
+      "ID":3364,
+      "NameArabic":"الرهوة",
+      "NameEnglish":"AR RAHWAH",
+      "ParentID":6
+   },
+   {
+      "ID":1713,
+      "NameArabic":"الروضة",
+      "NameEnglish":"AR RAWDAH",
+      "ParentID":6
+   },
+   {
+      "ID":1311,
+      "NameArabic":"الرونة",
+      "NameEnglish":"AR RUNAH",
+      "ParentID":6
+   },
+   {
+      "ID":1732,
+      "NameArabic":"الريش",
+      "NameEnglish":"AR RAYSH",
+      "ParentID":6
+   },
+   {
+      "ID":1725,
+      "NameArabic":"الريع",
+      "NameEnglish":"AR RI\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":1796,
+      "NameArabic":"الزهراء",
+      "NameEnglish":"AZ ZAHA",
+      "ParentID":6
+   },
+   {
+      "ID":3300,
+      "NameArabic":"الزهرة",
+      "NameEnglish":"AZ ZAHRAH",
+      "ParentID":6
+   },
+   {
+      "ID":3315,
+      "NameArabic":"الزهيد",
+      "NameEnglish":"AZ ZUHAYD",
+      "ParentID":6
+   },
+   {
+      "ID":2971,
+      "NameArabic":"السبت",
+      "NameEnglish":"AS SABT",
+      "ParentID":6
+   },
+   {
+      "ID":2655,
+      "NameArabic":"السبت",
+      "NameEnglish":"AS SABT",
+      "ParentID":6
+   },
+   {
+      "ID":1745,
+      "NameArabic":"السحر",
+      "NameEnglish":"AS SAHAR",
+      "ParentID":6
+   },
+   {
+      "ID":1815,
+      "NameArabic":"السرو",
+      "NameEnglish":"AS SARW",
+      "ParentID":6
+   },
+   {
+      "ID":1429,
+      "NameArabic":"السفح",
+      "NameEnglish":"AS SAFAH",
+      "ParentID":6
+   },
+   {
+      "ID":3367,
+      "NameArabic":"السلاطين",
+      "NameEnglish":"AS SALATIN",
+      "ParentID":6
+   },
+   {
+      "ID":2904,
+      "NameArabic":"السلامة",
+      "NameEnglish":"AS SALAMAH",
+      "ParentID":6
+   },
+   {
+      "ID":1711,
+      "NameArabic":"السلع",
+      "NameEnglish":"AS SILA",
+      "ParentID":6
+   },
+   {
+      "ID":2514,
+      "NameArabic":"السهوة",
+      "NameEnglish":"AS SAHWAH",
+      "ParentID":6
+   },
+   {
+      "ID":2909,
+      "NameArabic":"الشرف",
+      "NameEnglish":"ASH SHARAF",
+      "ParentID":6
+   },
+   {
+      "ID":1768,
+      "NameArabic":"الشرف",
+      "NameEnglish":"ASH SHARAF",
+      "ParentID":6
+   },
+   {
+      "ID":2879,
+      "NameArabic":"الشرفات",
+      "NameEnglish":"ASH SHURAFAT",
+      "ParentID":6
+   },
+   {
+      "ID":1491,
+      "NameArabic":"الشط",
+      "NameEnglish":"ASH SHATT",
+      "ParentID":6
+   },
+   {
+      "ID":2969,
+      "NameArabic":"الشطاط",
+      "NameEnglish":"AL SHUTAT",
+      "ParentID":6
+   },
+   {
+      "ID":1265,
+      "NameArabic":"الشعبة",
+      "NameEnglish":"ASH SHU\u0027BAH",
+      "ParentID":6
+   },
+   {
+      "ID":1821,
+      "NameArabic":"الشعبين",
+      "NameEnglish":"ASH SHI\u0027BAYN",
+      "ParentID":6
+   },
+   {
+      "ID":2658,
+      "NameArabic":"الشعف",
+      "NameEnglish":"ASH SHA\u0027F",
+      "ParentID":6
+   },
+   {
+      "ID":1549,
+      "NameArabic":"الشقيق",
+      "NameEnglish":"ASH SHAQIQ",
+      "ParentID":6
+   },
+   {
+      "ID":1480,
+      "NameArabic":"الشقيقة",
+      "NameEnglish":"ASH SHAQIQAH",
+      "ParentID":6
+   },
+   {
+      "ID":1471,
+      "NameArabic":"الصبيحي",
+      "NameEnglish":"AS SABIHI",
+      "ParentID":6
+   },
+   {
+      "ID":3268,
+      "NameArabic":"الصرة",
+      "NameEnglish":"AS SURRAH",
+      "ParentID":6
+   },
+   {
+      "ID":1557,
+      "NameArabic":"الصرف",
+      "NameEnglish":"AS SURUF",
+      "ParentID":6
+   },
+   {
+      "ID":1678,
+      "NameArabic":"الصفا الملبد",
+      "NameEnglish":"AS SAFA AL MULABAD",
+      "ParentID":6
+   },
+   {
+      "ID":1705,
+      "NameArabic":"الصفية",
+      "NameEnglish":"AS SUFAYYAH",
+      "ParentID":6
+   },
+   {
+      "ID":1307,
+      "NameArabic":"الصمدة",
+      "NameEnglish":"AS SIMIDAH",
+      "ParentID":6
+   },
+   {
+      "ID":2940,
+      "NameArabic":"الصيحاني",
+      "NameEnglish":"AS SAYHANI",
+      "ParentID":6
+   },
+   {
+      "ID":1811,
+      "NameArabic":"الضاجع",
+      "NameEnglish":"AD DAJI\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":3254,
+      "NameArabic":"الضاربين",
+      "NameEnglish":"AD DARIBAYN",
+      "ParentID":6
+   },
+   {
+      "ID":1291,
+      "NameArabic":"الضحي",
+      "NameEnglish":"AD DAHI",
+      "ParentID":6
+   },
+   {
+      "ID":2881,
+      "NameArabic":"الطرق",
+      "NameEnglish":"AT TIRQ",
+      "ParentID":6
+   },
+   {
+      "ID":1293,
+      "NameArabic":"الطرقة",
+      "NameEnglish":"AT TARAQAH",
+      "ParentID":6
+   },
+   {
+      "ID":1669,
+      "NameArabic":"الطريف الأعلى",
+      "NameEnglish":"AT TURAYF AL A\u0027LA",
+      "ParentID":6
+   },
+   {
+      "ID":1688,
+      "NameArabic":"الطلاح",
+      "NameEnglish":"AT TILAH",
+      "ParentID":6
+   },
+   {
+      "ID":1680,
+      "NameArabic":"الطلحة",
+      "NameEnglish":"AT TALHAH",
+      "ParentID":6
+   },
+   {
+      "ID":2518,
+      "NameArabic":"الطلحة",
+      "NameEnglish":"AT TALHAH",
+      "ParentID":6
+   },
+   {
+      "ID":2962,
+      "NameArabic":"الطلحة",
+      "NameEnglish":"AT TALHAH",
+      "ParentID":6
+   },
+   {
+      "ID":3382,
+      "NameArabic":"الطلحة",
+      "NameEnglish":"AT TALAHA",
+      "ParentID":6
+   },
+   {
+      "ID":1208,
+      "NameArabic":"الطويفح",
+      "NameEnglish":"AL TUWAIFAH",
+      "ParentID":6
+   },
+   {
+      "ID":3244,
+      "NameArabic":"الظهارة",
+      "NameEnglish":"ADH DHAHARAH",
+      "ParentID":6
+   },
+   {
+      "ID":1559,
+      "NameArabic":"العاسرة",
+      "NameEnglish":"AL \u0027ASIRAH",
+      "ParentID":6
+   },
+   {
+      "ID":2911,
+      "NameArabic":"العبب",
+      "NameEnglish":"AL \u0027ABAB",
+      "ParentID":6
+   },
+   {
+      "ID":2970,
+      "NameArabic":"العبيدية",
+      "NameEnglish":"AL \u0027ABIDIYAH",
+      "ParentID":6
+   },
+   {
+      "ID":2517,
+      "NameArabic":"العدوة",
+      "NameEnglish":"AL \u0027IDWAH",
+      "ParentID":6
+   },
+   {
+      "ID":1717,
+      "NameArabic":"العرض",
+      "NameEnglish":"AL \u0027ARD",
+      "ParentID":6
+   },
+   {
+      "ID":3375,
+      "NameArabic":"العرف",
+      "NameEnglish":"AL \u0027ARAF",
+      "ParentID":6
+   },
+   {
+      "ID":2924,
+      "NameArabic":"العرف",
+      "NameEnglish":"AL \u0027URF",
+      "ParentID":6
+   },
+   {
+      "ID":3294,
+      "NameArabic":"العرفان",
+      "NameEnglish":"AL \u0027URFAN",
+      "ParentID":6
+   },
+   {
+      "ID":3239,
+      "NameArabic":"العرق",
+      "NameEnglish":"AL \u0027IRQ",
+      "ParentID":6
+   },
+   {
+      "ID":3298,
+      "NameArabic":"العرين",
+      "NameEnglish":"AL \u0027ARIN",
+      "ParentID":6
+   },
+   {
+      "ID":2919,
+      "NameArabic":"العزيزة",
+      "NameEnglish":"AL \u0027AZIZAH",
+      "ParentID":6
+   },
+   {
+      "ID":2982,
+      "NameArabic":"العسران",
+      "NameEnglish":"AL \u0027USRAN",
+      "ParentID":6
+   },
+   {
+      "ID":1816,
+      "NameArabic":"العشة",
+      "NameEnglish":"AL \u0027ASHSHAH",
+      "ParentID":6
+   },
+   {
+      "ID":1477,
+      "NameArabic":"العطف",
+      "NameEnglish":"AL \u0027ATF",
+      "ParentID":6
+   },
+   {
+      "ID":2930,
+      "NameArabic":"العطفة",
+      "NameEnglish":"AL \u0027UTFAH",
+      "ParentID":6
+   },
+   {
+      "ID":2974,
+      "NameArabic":"العطفة",
+      "NameEnglish":"AL \u0027UTFAH",
+      "ParentID":6
+   },
+   {
+      "ID":3329,
+      "NameArabic":"العطفة",
+      "NameEnglish":"AL \u0027UTFAH",
+      "ParentID":6
+   },
+   {
+      "ID":2670,
+      "NameArabic":"العطوف",
+      "NameEnglish":"AL \u0027UTUF",
+      "ParentID":6
+   },
+   {
+      "ID":1556,
+      "NameArabic":"العظة",
+      "NameEnglish":"AL \u0027IDHAH",
+      "ParentID":6
+   },
+   {
+      "ID":1758,
+      "NameArabic":"العفارة",
+      "NameEnglish":"AL \u0027AFARAH",
+      "ParentID":6
+   },
+   {
+      "ID":3370,
+      "NameArabic":"العقدة",
+      "NameEnglish":"AL \u0027UQDAH",
+      "ParentID":6
+   },
+   {
+      "ID":1760,
+      "NameArabic":"العقل",
+      "NameEnglish":"AL \u0027AQL",
+      "ParentID":6
+   },
+   {
+      "ID":2973,
+      "NameArabic":"العقيق",
+      "NameEnglish":"AL \u0027AQIQ",
+      "ParentID":6
+   },
+   {
+      "ID":15607,
+      "NameArabic":"العقيق",
+      "NameEnglish":"AL AQIQ",
+      "ParentID":6
+   },
+   {
+      "ID":1296,
+      "NameArabic":"العقيقة",
+      "NameEnglish":"AL AQIQAH",
+      "ParentID":6
+   },
+   {
+      "ID":3296,
+      "NameArabic":"العلوبي",
+      "NameEnglish":"AL \u0027ULUBI",
+      "ParentID":6
+   },
+   {
+      "ID":3280,
+      "NameArabic":"العمارة",
+      "NameEnglish":"AL \u0027AMMARAH",
+      "ParentID":6
+   },
+   {
+      "ID":1300,
+      "NameArabic":"العمارة",
+      "NameEnglish":"AL \u0027AMMARAH",
+      "ParentID":6
+   },
+   {
+      "ID":3372,
+      "NameArabic":"العنثري",
+      "NameEnglish":"AL \u0027ANTHARI",
+      "ParentID":6
+   },
+   {
+      "ID":1740,
+      "NameArabic":"العيدة",
+      "NameEnglish":"AL \u0027IDAH",
+      "ParentID":6
+   },
+   {
+      "ID":3693,
+      "NameArabic":"العيش",
+      "NameEnglish":"AL AYSH",
+      "ParentID":6
+   },
+   {
+      "ID":1682,
+      "NameArabic":"العين",
+      "NameEnglish":"AL \u0027AYN",
+      "ParentID":6
+   },
+   {
+      "ID":1839,
+      "NameArabic":"العين",
+      "NameEnglish":"AL \u0027AYN",
+      "ParentID":6
+   },
+   {
+      "ID":2915,
+      "NameArabic":"العين",
+      "NameEnglish":"AL \u0027AYN",
+      "ParentID":6
+   },
+   {
+      "ID":1736,
+      "NameArabic":"العين",
+      "NameEnglish":"AL \u0027AYN",
+      "ParentID":6
+   },
+   {
+      "ID":3272,
+      "NameArabic":"العينين",
+      "NameEnglish":"AL \u0027AYNAYN",
+      "ParentID":6
+   },
+   {
+      "ID":1799,
+      "NameArabic":"الغال",
+      "NameEnglish":"AL GHAL",
+      "ParentID":6
+   },
+   {
+      "ID":3282,
+      "NameArabic":"الغرس",
+      "NameEnglish":"AL GHARS",
+      "ParentID":6
+   },
+   {
+      "ID":1498,
+      "NameArabic":"الغفرات",
+      "NameEnglish":"AL GHAFRAT",
+      "ParentID":6
+   },
+   {
+      "ID":3302,
+      "NameArabic":"الغلقة",
+      "NameEnglish":"AL GHILIQAH",
+      "ParentID":6
+   },
+   {
+      "ID":3320,
+      "NameArabic":"الغول",
+      "NameEnglish":"AL GHAWL",
+      "ParentID":6
+   },
+   {
+      "ID":1697,
+      "NameArabic":"الغول",
+      "NameEnglish":"AL GHAWL",
+      "ParentID":6
+   },
+   {
+      "ID":3355,
+      "NameArabic":"الغيل",
+      "NameEnglish":"AL GHAYL",
+      "ParentID":6
+   },
+   {
+      "ID":1438,
+      "NameArabic":"الفاخرية",
+      "NameEnglish":"AL FAKHRIYAH",
+      "ParentID":6
+   },
+   {
+      "ID":1289,
+      "NameArabic":"الفاضية",
+      "NameEnglish":"AL FADIYAH",
+      "ParentID":6
+   },
+   {
+      "ID":1728,
+      "NameArabic":"الفاهمة",
+      "NameEnglish":"AL FAHMAH",
+      "ParentID":6
+   },
+   {
+      "ID":1554,
+      "NameArabic":"الفرع",
+      "NameEnglish":"AL FAR\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":1283,
+      "NameArabic":"الفرعة",
+      "NameEnglish":"AL FAR\u0027AH",
+      "ParentID":6
+   },
+   {
+      "ID":3688,
+      "NameArabic":"الفرعين",
+      "NameEnglish":"AL FARAAIN",
+      "ParentID":6
+   },
+   {
+      "ID":1271,
+      "NameArabic":"الفصيلة",
+      "NameEnglish":"AL FASILAH",
+      "ParentID":6
+   },
+   {
+      "ID":3326,
+      "NameArabic":"الفقاعيس",
+      "NameEnglish":"AL FUQA\u0027IS",
+      "ParentID":6
+   },
+   {
+      "ID":1765,
+      "NameArabic":"الفي",
+      "NameEnglish":"AL FAYY",
+      "ParentID":6
+   },
+   {
+      "ID":3681,
+      "NameArabic":"الفيض",
+      "NameEnglish":"AL FAYD",
+      "ParentID":6
+   },
+   {
+      "ID":1308,
+      "NameArabic":"الفيض",
+      "NameEnglish":"AL FAYD",
+      "ParentID":6
+   },
+   {
+      "ID":2887,
+      "NameArabic":"الفيض",
+      "NameEnglish":"AL FAYD",
+      "ParentID":6
+   },
+   {
+      "ID":1819,
+      "NameArabic":"القارية",
+      "NameEnglish":"AL QARIYAH",
+      "ParentID":6
+   },
+   {
+      "ID":1502,
+      "NameArabic":"القاع",
+      "NameEnglish":"AL QA\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":1611,
+      "NameArabic":"القاع",
+      "NameEnglish":"AL QA\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":2894,
+      "NameArabic":"القحمة",
+      "NameEnglish":"AL QAHMAH",
+      "ParentID":6
+   },
+   {
+      "ID":1489,
+      "NameArabic":"القديحي",
+      "NameEnglish":"AL QADIHY",
+      "ParentID":6
+   },
+   {
+      "ID":1266,
+      "NameArabic":"القذال",
+      "NameEnglish":"AL QADHAL",
+      "ParentID":6
+   },
+   {
+      "ID":1836,
+      "NameArabic":"القرار",
+      "NameEnglish":"AL QARAR",
+      "ParentID":6
+   },
+   {
+      "ID":2923,
+      "NameArabic":"القرح",
+      "NameEnglish":"AL QURH",
+      "ParentID":6
+   },
+   {
+      "ID":1864,
+      "NameArabic":"القرحاء",
+      "NameEnglish":"AL QARHA",
+      "ParentID":6
+   },
+   {
+      "ID":2942,
+      "NameArabic":"القرعاء",
+      "NameEnglish":"AL QAR\u0027A",
+      "ParentID":6
+   },
+   {
+      "ID":2946,
+      "NameArabic":"القرن",
+      "NameEnglish":"AL QARN",
+      "ParentID":6
+   },
+   {
+      "ID":3270,
+      "NameArabic":"القرن",
+      "NameEnglish":"AL QARN",
+      "ParentID":6
+   },
+   {
+      "ID":1829,
+      "NameArabic":"القرن",
+      "NameEnglish":"AL QURUN",
+      "ParentID":6
+   },
+   {
+      "ID":2985,
+      "NameArabic":"القرن",
+      "NameEnglish":"AL QARN",
+      "ParentID":6
+   },
+   {
+      "ID":3242,
+      "NameArabic":"القرن الأبيض",
+      "NameEnglish":"AL QARN AL ABYAD",
+      "ParentID":6
+   },
+   {
+      "ID":1724,
+      "NameArabic":"القرونة",
+      "NameEnglish":"AL QURUNAH",
+      "ParentID":6
+   },
+   {
+      "ID":3247,
+      "NameArabic":"القرية",
+      "NameEnglish":"AL QARYAH",
+      "ParentID":6
+   },
+   {
+      "ID":1282,
+      "NameArabic":"القريحة",
+      "NameEnglish":"AL QURAYHAH",
+      "ParentID":6
+   },
+   {
+      "ID":2965,
+      "NameArabic":"القرين",
+      "NameEnglish":"AL QURAYN",
+      "ParentID":6
+   },
+   {
+      "ID":3385,
+      "NameArabic":"القصب",
+      "NameEnglish":"AL QASAB",
+      "ParentID":6
+   },
+   {
+      "ID":1686,
+      "NameArabic":"القضة",
+      "NameEnglish":"AL QADDAH",
+      "ParentID":6
+   },
+   {
+      "ID":1654,
+      "NameArabic":"القضوى",
+      "NameEnglish":"AL QADWA",
+      "ParentID":6
+   },
+   {
+      "ID":2937,
+      "NameArabic":"القعرة",
+      "NameEnglish":"AL QU\u0027RAH",
+      "ParentID":6
+   },
+   {
+      "ID":1276,
+      "NameArabic":"القنعات",
+      "NameEnglish":"AL QANA\u0027AT",
+      "ParentID":6
+   },
+   {
+      "ID":1510,
+      "NameArabic":"القوباء",
+      "NameEnglish":"AL QAWBA",
+      "ParentID":6
+   },
+   {
+      "ID":1500,
+      "NameArabic":"القوز",
+      "NameEnglish":"AL QUZ",
+      "ParentID":6
+   },
+   {
+      "ID":1677,
+      "NameArabic":"القوز",
+      "NameEnglish":"AL QAWZ",
+      "ParentID":6
+   },
+   {
+      "ID":1509,
+      "NameArabic":"القوزية",
+      "NameEnglish":"AL QAWZIYAH",
+      "ParentID":6
+   },
+   {
+      "ID":1649,
+      "NameArabic":"القيسة",
+      "NameEnglish":"AL QAYSAH",
+      "ParentID":6
+   },
+   {
+      "ID":1275,
+      "NameArabic":"القيوار",
+      "NameEnglish":"AL QIWAR",
+      "ParentID":6
+   },
+   {
+      "ID":1744,
+      "NameArabic":"الكديد",
+      "NameEnglish":"AL KADID",
+      "ParentID":6
+   },
+   {
+      "ID":1274,
+      "NameArabic":"الكنبي",
+      "NameEnglish":"AL KANABI",
+      "ParentID":6
+   },
+   {
+      "ID":2513,
+      "NameArabic":"الكنهبلة",
+      "NameEnglish":"AL KANAHBILAH",
+      "ParentID":6
+   },
+   {
+      "ID":3384,
+      "NameArabic":"الكولة",
+      "NameEnglish":"AL KULAH",
+      "ParentID":6
+   },
+   {
+      "ID":1841,
+      "NameArabic":"اللصبة",
+      "NameEnglish":"AL LASBAH",
+      "ParentID":6
+   },
+   {
+      "ID":1707,
+      "NameArabic":"المثناة",
+      "NameEnglish":"AL MATHNAH",
+      "ParentID":6
+   },
+   {
+      "ID":2905,
+      "NameArabic":"المثناة",
+      "NameEnglish":"AL MATHNAH",
+      "ParentID":6
+   },
+   {
+      "ID":3365,
+      "NameArabic":"المجازة",
+      "NameEnglish":"AL MIJAZAH",
+      "ParentID":6
+   },
+   {
+      "ID":1659,
+      "NameArabic":"المجرا",
+      "NameEnglish":"AL MUJRA",
+      "ParentID":6
+   },
+   {
+      "ID":3356,
+      "NameArabic":"المجزعة",
+      "NameEnglish":"AL MAJZA\u0027AH",
+      "ParentID":6
+   },
+   {
+      "ID":3351,
+      "NameArabic":"المجمع",
+      "NameEnglish":"AL MAJMA\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":2939,
+      "NameArabic":"المجمع",
+      "NameEnglish":"AL MAJMA\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":1494,
+      "NameArabic":"المجمعة",
+      "NameEnglish":"AL MAJMA\u0027AH",
+      "ParentID":6
+   },
+   {
+      "ID":1761,
+      "NameArabic":"المجمعة",
+      "NameEnglish":"AL MAJMA\u0027AH",
+      "ParentID":6
+   },
+   {
+      "ID":2908,
+      "NameArabic":"المحالة",
+      "NameEnglish":"AL MAHALAH",
+      "ParentID":6
+   },
+   {
+      "ID":3368,
+      "NameArabic":"المحجر",
+      "NameEnglish":"AL MAHJAR",
+      "ParentID":6
+   },
+   {
+      "ID":3316,
+      "NameArabic":"المحزمة",
+      "NameEnglish":"AL MUHAZMAH",
+      "ParentID":6
+   },
+   {
+      "ID":1472,
+      "NameArabic":"المدراء",
+      "NameEnglish":"AL MADRA",
+      "ParentID":6
+   },
+   {
+      "ID":1727,
+      "NameArabic":"المربع",
+      "NameEnglish":"AL MURABBA\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":1492,
+      "NameArabic":"المروة",
+      "NameEnglish":"AL MARWAH",
+      "ParentID":6
+   },
+   {
+      "ID":1702,
+      "NameArabic":"المري",
+      "NameEnglish":"AL MARRI",
+      "ParentID":6
+   },
+   {
+      "ID":1684,
+      "NameArabic":"المريفق",
+      "NameEnglish":"AL MURAYFIQ",
+      "ParentID":6
+   },
+   {
+      "ID":1302,
+      "NameArabic":"المزارقة",
+      "NameEnglish":"AL MAZARQAH",
+      "ParentID":6
+   },
+   {
+      "ID":1797,
+      "NameArabic":"المسقوي",
+      "NameEnglish":"AL MASQAWI",
+      "ParentID":6
+   },
+   {
+      "ID":3697,
+      "NameArabic":"المسقي",
+      "NameEnglish":"AL MASQI",
+      "ParentID":6
+   },
+   {
+      "ID":1731,
+      "NameArabic":"المسلم",
+      "NameEnglish":"AL MUSLIM",
+      "ParentID":6
+   },
+   {
+      "ID":1752,
+      "NameArabic":"المسلمة",
+      "NameEnglish":"AL MASLAMAH",
+      "ParentID":6
+   },
+   {
+      "ID":1272,
+      "NameArabic":"المسلمة",
+      "NameEnglish":"AL MASLAMAH",
+      "ParentID":6
+   },
+   {
+      "ID":12915,
+      "NameArabic":"المصبح",
+      "NameEnglish":"AL MUSBAH",
+      "ParentID":6
+   },
+   {
+      "ID":2978,
+      "NameArabic":"المصياد",
+      "NameEnglish":"AL MISYAD",
+      "ParentID":6
+   },
+   {
+      "ID":1712,
+      "NameArabic":"المضة",
+      "NameEnglish":"AL MADDAH",
+      "ParentID":6
+   },
+   {
+      "ID":1852,
+      "NameArabic":"المضيق",
+      "NameEnglish":"AL MADIQ",
+      "ParentID":6
+   },
+   {
+      "ID":2885,
+      "NameArabic":"المطعن",
+      "NameEnglish":"AL MAT\u0027AN",
+      "ParentID":6
+   },
+   {
+      "ID":1664,
+      "NameArabic":"المعاملة",
+      "NameEnglish":"AL MU\u0027AMALAH",
+      "ParentID":6
+   },
+   {
+      "ID":1499,
+      "NameArabic":"المعدن",
+      "NameEnglish":"AL MA\u0027DIN",
+      "ParentID":6
+   },
+   {
+      "ID":1751,
+      "NameArabic":"المعشور",
+      "NameEnglish":"AL MA\u0027SHUR",
+      "ParentID":6
+   },
+   {
+      "ID":1739,
+      "NameArabic":"المغمر",
+      "NameEnglish":"AL MAGHMAR",
+      "ParentID":6
+   },
+   {
+      "ID":1742,
+      "NameArabic":"المقاعد",
+      "NameEnglish":"AL MAQA\u0027ID",
+      "ParentID":6
+   },
+   {
+      "ID":1737,
+      "NameArabic":"المكثر",
+      "NameEnglish":"AL MUKATHTHIR",
+      "ParentID":6
+   },
+   {
+      "ID":2961,
+      "NameArabic":"الملاحة",
+      "NameEnglish":"AL MALAHAH",
+      "ParentID":6
+   },
+   {
+      "ID":3360,
+      "NameArabic":"الملحة",
+      "NameEnglish":"AL MALHAH",
+      "ParentID":6
+   },
+   {
+      "ID":3363,
+      "NameArabic":"الملطاء",
+      "NameEnglish":"AL MALTA",
+      "ParentID":6
+   },
+   {
+      "ID":3314,
+      "NameArabic":"المنابية",
+      "NameEnglish":"AL MANABIYAH",
+      "ParentID":6
+   },
+   {
+      "ID":2886,
+      "NameArabic":"المنجحة",
+      "NameEnglish":"AL MANJAHAH",
+      "ParentID":6
+   },
+   {
+      "ID":1280,
+      "NameArabic":"المنظر",
+      "NameEnglish":"AL MANDHAR",
+      "ParentID":6
+   },
+   {
+      "ID":1269,
+      "NameArabic":"المنيظر",
+      "NameEnglish":"AL MUNAYDHIR",
+      "ParentID":6
+   },
+   {
+      "ID":1493,
+      "NameArabic":"المهامل",
+      "NameEnglish":"AL MAHAMIL",
+      "ParentID":6
+   },
+   {
+      "ID":2917,
+      "NameArabic":"الموسطة",
+      "NameEnglish":"AL MAWSATAH",
+      "ParentID":6
+   },
+   {
+      "ID":1277,
+      "NameArabic":"الميفاء",
+      "NameEnglish":"AL MIFA",
+      "ParentID":6
+   },
+   {
+      "ID":1730,
+      "NameArabic":"النصب",
+      "NameEnglish":"AN NUSUB",
+      "ParentID":6
+   },
+   {
+      "ID":2663,
+      "NameArabic":"النماص",
+      "NameEnglish":"AN NAMAS",
+      "ParentID":6
+   },
+   {
+      "ID":1622,
+      "NameArabic":"الهدارة",
+      "NameEnglish":"AL HADDARAH",
+      "ParentID":6
+   },
+   {
+      "ID":1844,
+      "NameArabic":"الهدانة",
+      "NameEnglish":"AL HADANAH",
+      "ParentID":6
+   },
+   {
+      "ID":1298,
+      "NameArabic":"الهرير الشرقي - الجازي",
+      "NameEnglish":"AL HURAYR ASH SHARQI (AL JAZI)",
+      "ParentID":6
+   },
+   {
+      "ID":2920,
+      "NameArabic":"الهرير الغربي",
+      "NameEnglish":"AL HIRAYR AL GHARBI",
+      "ParentID":6
+   },
+   {
+      "ID":2906,
+      "NameArabic":"الهضبة",
+      "NameEnglish":"AL HADBAH",
+      "ParentID":6
+   },
+   {
+      "ID":1854,
+      "NameArabic":"الهضبة",
+      "NameEnglish":"AL HADABAH",
+      "ParentID":6
+   },
+   {
+      "ID":3274,
+      "NameArabic":"الواديين",
+      "NameEnglish":"AL WADIYAYN",
+      "ParentID":6
+   },
+   {
+      "ID":3680,
+      "NameArabic":"الواديين",
+      "NameEnglish":"AL WADIYEEN",
+      "ParentID":6
+   },
+   {
+      "ID":3369,
+      "NameArabic":"الوسط",
+      "NameEnglish":"AL WASAT",
+      "ParentID":6
+   },
+   {
+      "ID":3306,
+      "NameArabic":"الوهابة",
+      "NameEnglish":"AL WAHABAH",
+      "ParentID":6
+   },
+   {
+      "ID":1681,
+      "NameArabic":"بادية",
+      "NameEnglish":"BADIYAH",
+      "ParentID":6
+   },
+   {
+      "ID":1501,
+      "NameArabic":"بادية",
+      "NameEnglish":"BADIYAH",
+      "ParentID":6
+   },
+   {
+      "ID":3690,
+      "NameArabic":"بحر ابو سكينة",
+      "NameEnglish":"BAHR ABU SUKAYNAH",
+      "ParentID":6
+   },
+   {
+      "ID":1693,
+      "NameArabic":"بريم السليل",
+      "NameEnglish":"BURAYM AS SILIL",
+      "ParentID":6
+   },
+   {
+      "ID":1652,
+      "NameArabic":"بطحة",
+      "NameEnglish":"BATHAH",
+      "ParentID":6
+   },
+   {
+      "ID":3689,
+      "NameArabic":"بللحمر",
+      "NameEnglish":"BILLAHMAR",
+      "ParentID":6
+   },
+   {
+      "ID":3366,
+      "NameArabic":"بن لكرم",
+      "NameEnglish":"BIN LAKRAM",
+      "ParentID":6
+   },
+   {
+      "ID":1863,
+      "NameArabic":"بني تميم",
+      "NameEnglish":"BANI TAMIM",
+      "ParentID":6
+   },
+   {
+      "ID":2960,
+      "NameArabic":"بني رزام",
+      "NameEnglish":"BANI RIZAM",
+      "ParentID":6
+   },
+   {
+      "ID":1645,
+      "NameArabic":"بني زهير",
+      "NameEnglish":"BANI ZUHAYR",
+      "ParentID":6
+   },
+   {
+      "ID":1653,
+      "NameArabic":"بني قيس",
+      "NameEnglish":"BANI QAYS",
+      "ParentID":6
+   },
+   {
+      "ID":3248,
+      "NameArabic":"بني مليح",
+      "NameEnglish":"BANY MULAYH",
+      "ParentID":6
+   },
+   {
+      "ID":3253,
+      "NameArabic":"بهوان",
+      "NameEnglish":"BAHWAN",
+      "ParentID":6
+   },
+   {
+      "ID":2668,
+      "NameArabic":"بيحان",
+      "NameEnglish":"BIHAN",
+      "ParentID":6
+   },
+   {
+      "ID":1667,
+      "NameArabic":"بيش",
+      "NameEnglish":"BISH",
+      "ParentID":6
+   },
+   {
+      "ID":1301,
+      "NameArabic":"بيشة",
+      "NameEnglish":"BISHAH",
+      "ParentID":6
+   },
+   {
+      "ID":1824,
+      "NameArabic":"بيغ",
+      "NameEnglish":"BAYYAGH",
+      "ParentID":6
+   },
+   {
+      "ID":1753,
+      "NameArabic":"بين الجبلين",
+      "NameEnglish":"BAYN AL JABLAYN",
+      "ParentID":6
+   },
+   {
+      "ID":1487,
+      "NameArabic":"بينة",
+      "NameEnglish":"BAYNAH",
+      "ParentID":6
+   },
+   {
+      "ID":2931,
+      "NameArabic":"تانة",
+      "NameEnglish":"TANAH",
+      "ParentID":6
+   },
+   {
+      "ID":2526,
+      "NameArabic":"تباشعة",
+      "NameEnglish":"TUBASH\u0027AH",
+      "ParentID":6
+   },
+   {
+      "ID":1648,
+      "NameArabic":"تلاء",
+      "NameEnglish":"TALA",
+      "ParentID":6
+   },
+   {
+      "ID":2945,
+      "NameArabic":"تمنية",
+      "NameEnglish":"TAMNIYAH",
+      "ParentID":6
+   },
+   {
+      "ID":1672,
+      "NameArabic":"ثفرة",
+      "NameEnglish":"THAFRAH",
+      "ParentID":6
+   },
+   {
+      "ID":1809,
+      "NameArabic":"ثلوث ريم",
+      "NameEnglish":"THULUTH RIM",
+      "ParentID":6
+   },
+   {
+      "ID":1558,
+      "NameArabic":"ثما",
+      "NameEnglish":"THAMMA",
+      "ParentID":6
+   },
+   {
+      "ID":1431,
+      "NameArabic":"جاش",
+      "NameEnglish":"JASH",
+      "ParentID":6
+   },
+   {
+      "ID":2814,
+      "NameArabic":"جعبة",
+      "NameEnglish":"JI\u0027ABAH",
+      "ParentID":6
+   },
+   {
+      "ID":1513,
+      "NameArabic":"جلال",
+      "NameEnglish":"JALLAL",
+      "ParentID":6
+   },
+   {
+      "ID":1662,
+      "NameArabic":"جليلة",
+      "NameEnglish":"JILAYYIAH",
+      "ParentID":6
+   },
+   {
+      "ID":2902,
+      "NameArabic":"جمان",
+      "NameEnglish":"JUMMAN",
+      "ParentID":6
+   },
+   {
+      "ID":1842,
+      "NameArabic":"جو جيبة",
+      "NameEnglish":"JAWW JIBAH",
+      "ParentID":6
+   },
+   {
+      "ID":3295,
+      "NameArabic":"حافظ",
+      "NameEnglish":"HAFIDH",
+      "ParentID":6
+   },
+   {
+      "ID":1787,
+      "NameArabic":"حبث",
+      "NameEnglish":"HABATH",
+      "ParentID":6
+   },
+   {
+      "ID":2933,
+      "NameArabic":"حبيب",
+      "NameEnglish":"HUBAYYIB",
+      "ParentID":6
+   },
+   {
+      "ID":1560,
+      "NameArabic":"حجاب",
+      "NameEnglish":"HIJAB",
+      "ParentID":6
+   },
+   {
+      "ID":2929,
+      "NameArabic":"حجلا",
+      "NameEnglish":"HAJLA",
+      "ParentID":6
+   },
+   {
+      "ID":1430,
+      "NameArabic":"حزم مفتاح",
+      "NameEnglish":"HAZM MIFTAH",
+      "ParentID":6
+   },
+   {
+      "ID":3687,
+      "NameArabic":"حسوة",
+      "NameEnglish":"HISWAH",
+      "ParentID":6
+   },
+   {
+      "ID":2952,
+      "NameArabic":"حصن الجرين",
+      "NameEnglish":"HUSN AL JARIN",
+      "ParentID":6
+   },
+   {
+      "ID":2516,
+      "NameArabic":"حلباء",
+      "NameEnglish":"HALABA",
+      "ParentID":6
+   },
+   {
+      "ID":2972,
+      "NameArabic":"حمالة",
+      "NameEnglish":"HIMALAH",
+      "ParentID":6
+   },
+   {
+      "ID":3386,
+      "NameArabic":"حمران",
+      "NameEnglish":"HUMRAN",
+      "ParentID":6
+   },
+   {
+      "ID":2884,
+      "NameArabic":"حمضة",
+      "NameEnglish":"HAMADAH",
+      "ParentID":6
+   },
+   {
+      "ID":3269,
+      "NameArabic":"حوراء",
+      "NameEnglish":"HAWRA",
+      "ParentID":6
+   },
+   {
+      "ID":1767,
+      "NameArabic":"خارف",
+      "NameEnglish":"KHARIF",
+      "ParentID":6
+   },
+   {
+      "ID":1690,
+      "NameArabic":"خشم شاع",
+      "NameEnglish":"KHASHM SHA\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":1803,
+      "NameArabic":"خميس البحر",
+      "NameEnglish":"KHAMIS AL BAHR",
+      "ParentID":6
+   },
+   {
+      "ID":1800,
+      "NameArabic":"خميس مطير",
+      "NameEnglish":"KHAMIS MUTAIR",
+      "ParentID":6
+   },
+   {
+      "ID":1805,
+      "NameArabic":"دالج",
+      "NameEnglish":"DALAJ",
+      "ParentID":6
+   },
+   {
+      "ID":2892,
+      "NameArabic":"دبساء",
+      "NameEnglish":"DABSA",
+      "ParentID":6
+   },
+   {
+      "ID":1828,
+      "NameArabic":"دبلاء",
+      "NameEnglish":"DABLA",
+      "ParentID":6
+   },
+   {
+      "ID":3321,
+      "NameArabic":"درامة",
+      "NameEnglish":"DIRAMAH",
+      "ParentID":6
+   },
+   {
+      "ID":1512,
+      "NameArabic":"دفرخرشان",
+      "NameEnglish":"DAFIR KHARSHAN",
+      "ParentID":6
+   },
+   {
+      "ID":3376,
+      "NameArabic":"دهر",
+      "NameEnglish":"DIHIR",
+      "ParentID":6
+   },
+   {
+      "ID":3259,
+      "NameArabic":"ذبوب",
+      "NameEnglish":"DHABUB",
+      "ParentID":6
+   },
+   {
+      "ID":2891,
+      "NameArabic":"ذهبان",
+      "NameEnglish":"DHAHBAN",
+      "ParentID":6
+   },
+   {
+      "ID":1794,
+      "NameArabic":"ذي حصيمو",
+      "NameEnglish":"DHI HUSAYMU",
+      "ParentID":6
+   },
+   {
+      "ID":3251,
+      "NameArabic":"ربوع السرو",
+      "NameEnglish":"RUBU\u0027 AS SARW",
+      "ParentID":6
+   },
+   {
+      "ID":2934,
+      "NameArabic":"رغفة",
+      "NameEnglish":"RUGHFAH",
+      "ParentID":6
+   },
+   {
+      "ID":1451,
+      "NameArabic":"رغوان",
+      "NameEnglish":"RUGHWAN",
+      "ParentID":6
+   },
+   {
+      "ID":1695,
+      "NameArabic":"رغوة",
+      "NameEnglish":"RIGHWAH",
+      "ParentID":6
+   },
+   {
+      "ID":1313,
+      "NameArabic":"روضان",
+      "NameEnglish":"RAWDAN",
+      "ParentID":6
+   },
+   {
+      "ID":1432,
+      "NameArabic":"روضة جاش",
+      "NameEnglish":"RUDAT JASH",
+      "ParentID":6
+   },
+   {
+      "ID":2927,
+      "NameArabic":"روغ العاند",
+      "NameEnglish":"RUGH AL \u0027ANID",
+      "ParentID":6
+   },
+   {
+      "ID":1755,
+      "NameArabic":"ريمان",
+      "NameEnglish":"RAYMAN",
+      "ParentID":6
+   },
+   {
+      "ID":1769,
+      "NameArabic":"سارة",
+      "NameEnglish":"SARAH",
+      "ParentID":6
+   },
+   {
+      "ID":1627,
+      "NameArabic":"سبت العلاية",
+      "NameEnglish":"SABT AL \u0027ALAYAH",
+      "ParentID":6
+   },
+   {
+      "ID":3279,
+      "NameArabic":"سحيبان",
+      "NameEnglish":"SUHAYBAN",
+      "ParentID":6
+   },
+   {
+      "ID":2657,
+      "NameArabic":"سدوان",
+      "NameEnglish":"SADWAN",
+      "ParentID":6
+   },
+   {
+      "ID":2910,
+      "NameArabic":"سر آل السريع",
+      "NameEnglish":"SIRR AL AS SIRI\u0027",
+      "ParentID":6
+   },
+   {
+      "ID":1860,
+      "NameArabic":"سرايم",
+      "NameEnglish":"SARAYIM",
+      "ParentID":6
+   },
+   {
+      "ID":2889,
+      "NameArabic":"سعيدة",
+      "NameEnglish":"SA\u0027IDAH",
+      "ParentID":6
+   },
+   {
+      "ID":1770,
+      "NameArabic":"سقامة",
+      "NameEnglish":"SIQAMAH",
+      "ParentID":6
+   },
+   {
+      "ID":1813,
+      "NameArabic":"سنومة",
+      "NameEnglish":"SANUMAH",
+      "ParentID":6
+   },
+   {
+      "ID":1762,
+      "NameArabic":"سيال",
+      "NameEnglish":"SAYYAL",
+      "ParentID":6
+   },
+   {
+      "ID":1287,
+      "NameArabic":"سيالة",
+      "NameEnglish":"SAYALAH",
+      "ParentID":6
+   },
+   {
+      "ID":1475,
+      "NameArabic":"شديق",
+      "NameEnglish":"SHUDAYQ",
+      "ParentID":6
+   },
+   {
+      "ID":2963,
+      "NameArabic":"شرمة",
+      "NameEnglish":"SHARMAH",
+      "ParentID":6
+   },
+   {
+      "ID":1806,
+      "NameArabic":"شط إبن جازعة",
+      "NameEnglish":"SHATT IBN JAZI\u0027AH",
+      "ParentID":6
+   },
+   {
+      "ID":1743,
+      "NameArabic":"شعب دريب",
+      "NameEnglish":"SHI\u0027B DURAYB",
+      "ParentID":6
+   },
+   {
+      "ID":1267,
+      "NameArabic":"شواحط",
+      "NameEnglish":"SHAWAHIT",
+      "ParentID":6
+   },
+   {
+      "ID":2958,
+      "NameArabic":"شوحط",
+      "NameEnglish":"SHUHAT",
+      "ParentID":6
+   },
+   {
+      "ID":2664,
+      "NameArabic":"شوحطة",
+      "NameEnglish":"SHUHITAH",
+      "ParentID":6
+   },
+   {
+      "ID":3352,
+      "NameArabic":"شيبة مسورة",
+      "NameEnglish":"SHAYBAT MISWARAH",
+      "ParentID":6
+   },
+   {
+      "ID":1278,
+      "NameArabic":"صعابان",
+      "NameEnglish":"SA\u0027ABAN",
+      "ParentID":6
+   },
+   {
+      "ID":1873,
+      "NameArabic":"صفحان",
+      "NameEnglish":"SAFHAN",
+      "ParentID":6
+   },
+   {
+      "ID":1310,
+      "NameArabic":"صفوان",
+      "NameEnglish":"SAFWAN",
+      "ParentID":6
+   },
+   {
+      "ID":2528,
+      "NameArabic":"صلحلح",
+      "NameEnglish":"SALAHLAH",
+      "ParentID":6
+   },
+   {
+      "ID":1663,
+      "NameArabic":"طعمة",
+      "NameEnglish":"TI\u0027MAH",
+      "ParentID":6
+   },
+   {
+      "ID":1299,
+      "NameArabic":"طيب الإسم",
+      "NameEnglish":"TAYYIB AL ISM",
+      "ParentID":6
+   },
+   {
+      "ID":3262,
+      "NameArabic":"عبالة",
+      "NameEnglish":"\u0027ABALLAH",
+      "ParentID":6
+   },
+   {
+      "ID":1268,
+      "NameArabic":"عدمن",
+      "NameEnglish":"\u0027ADAMAN",
+      "ParentID":6
+   },
+   {
+      "ID":3319,
+      "NameArabic":"عدن",
+      "NameEnglish":"\u0027IDIN",
+      "ParentID":6
+   },
+   {
+      "ID":2914,
+      "NameArabic":"عدوان",
+      "NameEnglish":"\u0027ADWAN",
+      "ParentID":6
+   },
+   {
+      "ID":1868,
+      "NameArabic":"عراب",
+      "NameEnglish":"\u0027IRAB",
+      "ParentID":6
+   },
+   {
+      "ID":2955,
+      "NameArabic":"عرايس",
+      "NameEnglish":"\u0027ARAYIS",
+      "ParentID":6
+   },
+   {
+      "ID":3333,
+      "NameArabic":"عرضين",
+      "NameEnglish":"ARDAYN",
+      "ParentID":6
+   },
+   {
+      "ID":1671,
+      "NameArabic":"عرقة",
+      "NameEnglish":"\u0027IRQAH",
+      "ParentID":6
+   },
+   {
+      "ID":1700,
+      "NameArabic":"عرقة",
+      "NameEnglish":"\u0027IRQAH",
+      "ParentID":6
+   },
+   {
+      "ID":1488,
+      "NameArabic":"عرمان",
+      "NameEnglish":"\u0027ARMAN",
+      "ParentID":6
+   },
+   {
+      "ID":2935,
+      "NameArabic":"عضاضة",
+      "NameEnglish":"\u0027ADADAH",
+      "ParentID":6
+   },
+   {
+      "ID":1486,
+      "NameArabic":"عقيلية",
+      "NameEnglish":"\u0027AQILIYAH",
+      "ParentID":6
+   },
+   {
+      "ID":1835,
+      "NameArabic":"عكية",
+      "NameEnglish":"\u0027UKYAH",
+      "ParentID":6
+   },
+   {
+      "ID":3379,
+      "NameArabic":"علاف",
+      "NameEnglish":"\u0027ALLAF",
+      "ParentID":6
+   },
+   {
+      "ID":2956,
+      "NameArabic":"عمام",
+      "NameEnglish":"\u0027UMAM",
+      "ParentID":6
+   },
+   {
+      "ID":1856,
+      "NameArabic":"عنقرة",
+      "NameEnglish":"\u0027UNQARAH",
+      "ParentID":6
+   },
+   {
+      "ID":1484,
+      "NameArabic":"عيدان",
+      "NameEnglish":"IDAN",
+      "ParentID":6
+   },
+   {
+      "ID":2948,
+      "NameArabic":"عين الذيبة",
+      "NameEnglish":"\u0027AYN ADH DHIBAH",
+      "ParentID":6
+   },
+   {
+      "ID":11198,
+      "NameArabic":"عين بن مصافح",
+      "NameEnglish":"AIN BIN MUSAFIH",
+      "ParentID":6
+   },
+   {
+      "ID":3258,
+      "NameArabic":"غاشرة",
+      "NameEnglish":"GHASHIRAH",
+      "ParentID":6
+   },
+   {
+      "ID":2888,
+      "NameArabic":"غالب",
+      "NameEnglish":"GHALIB",
+      "ParentID":6
+   },
+   {
+      "ID":16787,
+      "NameArabic":"غوافل",
+      "NameEnglish":"GHAVAFIL",
+      "ParentID":6
+   },
+   {
+      "ID":1790,
+      "NameArabic":"فتاح",
+      "NameEnglish":"FUTAH",
+      "ParentID":6
+   },
+   {
+      "ID":1675,
+      "NameArabic":"فرسان",
+      "NameEnglish":"FARASAN",
+      "ParentID":6
+   },
+   {
+      "ID":3299,
+      "NameArabic":"فرعة طريب",
+      "NameEnglish":"TURAIB",
+      "ParentID":6
+   },
+   {
+      "ID":1673,
+      "NameArabic":"فرعة قواء",
+      "NameEnglish":"FAR\u0027AT QUWA",
+      "ParentID":6
+   },
+   {
+      "ID":1826,
+      "NameArabic":"فقوة",
+      "NameEnglish":"FAQWAH",
+      "ParentID":6
+   },
+   {
+      "ID":1838,
+      "NameArabic":"فيشان",
+      "NameEnglish":"FAYSHAN",
+      "ParentID":6
+   },
+   {
+      "ID":2666,
+      "NameArabic":"قاها",
+      "NameEnglish":"QAHA",
+      "ParentID":6
+   },
+   {
+      "ID":1640,
+      "NameArabic":"قدرين",
+      "NameEnglish":"QUDRAYN",
+      "ParentID":6
+   },
+   {
+      "ID":2669,
+      "NameArabic":"قرآنية",
+      "NameEnglish":"QURANIYAH",
+      "ParentID":6
+   },
+   {
+      "ID":2950,
+      "NameArabic":"قرضة",
+      "NameEnglish":"QARADAH",
+      "ParentID":6
+   },
+   {
+      "ID":1570,
+      "NameArabic":"قرن بن ساهر",
+      "NameEnglish":"QARN BIN SAHIR",
+      "ParentID":6
+   },
+   {
+      "ID":2660,
+      "NameArabic":"قريش",
+      "NameEnglish":"QIRAYSH",
+      "ParentID":6
+   },
+   {
+      "ID":1286,
+      "NameArabic":"قزة",
+      "NameEnglish":"QUZZAH",
+      "ParentID":6
+   },
+   {
+      "ID":1804,
+      "NameArabic":"قشيعة",
+      "NameEnglish":"QUSHAY\u0027AH",
+      "ParentID":6
+   },
+   {
+      "ID":1511,
+      "NameArabic":"قطبة",
+      "NameEnglish":"QUTBAH",
+      "ParentID":6
+   },
+   {
+      "ID":1802,
+      "NameArabic":"قنا البحر",
+      "NameEnglish":"QANA \u0026 AL BAHR",
+      "ParentID":6
+   },
+   {
+      "ID":1726,
+      "NameArabic":"قنيفد",
+      "NameEnglish":"QINAYFID",
+      "ParentID":6
+   },
+   {
+      "ID":3281,
+      "NameArabic":"قيان",
+      "NameEnglish":"QIYAN",
+      "ParentID":6
+   },
+   {
+      "ID":3271,
+      "NameArabic":"كبدة",
+      "NameEnglish":"KUBADAH",
+      "ParentID":6
+   },
+   {
+      "ID":1503,
+      "NameArabic":"كتنة",
+      "NameEnglish":"KUTNAH",
+      "ParentID":6
+   },
+   {
+      "ID":1439,
+      "NameArabic":"كتنة",
+      "NameEnglish":"KUTNAH",
+      "ParentID":6
+   },
+   {
+      "ID":2903,
+      "NameArabic":"كثم",
+      "NameEnglish":"KATHM",
+      "ParentID":6
+   },
+   {
+      "ID":1704,
+      "NameArabic":"كدمان",
+      "NameEnglish":"KIDMAN",
+      "ParentID":6
+   },
+   {
+      "ID":3240,
+      "NameArabic":"كعب",
+      "NameEnglish":"KA\u0027B",
+      "ParentID":6
+   },
+   {
+      "ID":1830,
+      "NameArabic":"كلمة",
+      "NameEnglish":"KALMAH",
+      "ParentID":6
+   },
+   {
+      "ID":1434,
+      "NameArabic":"لاعس",
+      "NameEnglish":"LA\u0027IS",
+      "ParentID":6
+   },
+   {
+      "ID":3287,
+      "NameArabic":"لاهمة",
+      "NameEnglish":"LAHMAH",
+      "ParentID":6
+   },
+   {
+      "ID":1657,
+      "NameArabic":"لبوة",
+      "NameEnglish":"LABWAH",
+      "ParentID":6
+   },
+   {
+      "ID":2659,
+      "NameArabic":"لربوعة",
+      "NameEnglish":"LARBU\u0027AH",
+      "ParentID":6
+   },
+   {
+      "ID":1861,
+      "NameArabic":"لزمة",
+      "NameEnglish":"LAZMAH",
+      "ParentID":6
+   },
+   {
+      "ID":1676,
+      "NameArabic":"لسس",
+      "NameEnglish":"LASAS",
+      "ParentID":6
+   },
+   {
+      "ID":1834,
+      "NameArabic":"لصناي",
+      "NameEnglish":"LASNAY",
+      "ParentID":6
+   },
+   {
+      "ID":2907,
+      "NameArabic":"لعصان",
+      "NameEnglish":"LI\u0027SAN",
+      "ParentID":6
+   },
+   {
+      "ID":1843,
+      "NameArabic":"لهد",
+      "NameEnglish":"LUHUD",
+      "ParentID":6
+   },
+   {
+      "ID":2900,
+      "NameArabic":"لولاة",
+      "NameEnglish":"LAWLAH",
+      "ParentID":6
+   },
+   {
+      "ID":3260,
+      "NameArabic":"مجالد",
+      "NameEnglish":"MIJALID",
+      "ParentID":6
+   },
+   {
+      "ID":1504,
+      "NameArabic":"مجحم",
+      "NameEnglish":"MUJAHHIM",
+      "ParentID":6
+   },
+   {
+      "ID":1723,
+      "NameArabic":"مجزوعة",
+      "NameEnglish":"MAJZU\u0027AH",
+      "ParentID":6
+   },
+   {
+      "ID":1270,
+      "NameArabic":"محبة",
+      "NameEnglish":"MAHABBAH",
+      "ParentID":6
+   },
+   {
+      "ID":3245,
+      "NameArabic":"مخدرة",
+      "NameEnglish":"MAKHDARAH",
+      "ParentID":6
+   },
+   {
+      "ID":1721,
+      "NameArabic":"مراتخ",
+      "NameEnglish":"MURATIKH",
+      "ParentID":6
+   },
+   {
+      "ID":2818,
+      "NameArabic":"مرازيق",
+      "NameEnglish":"MARAZIQ",
+      "ParentID":6
+   },
+   {
+      "ID":1823,
+      "NameArabic":"مرجومة",
+      "NameEnglish":"MARJUMAH",
+      "ParentID":6
+   },
+   {
+      "ID":1442,
+      "NameArabic":"مريخة",
+      "NameEnglish":"MURAYKHAH",
+      "ParentID":6
+   },
+   {
+      "ID":1435,
+      "NameArabic":"مريغان",
+      "NameEnglish":"MURAYGHAN",
+      "ParentID":6
+   },
+   {
+      "ID":3265,
+      "NameArabic":"مسفرة",
+      "NameEnglish":"MISFIRAH",
+      "ParentID":6
+   },
+   {
+      "ID":1791,
+      "NameArabic":"مسلت",
+      "NameEnglish":"MASLAT",
+      "ParentID":6
+   },
+   {
+      "ID":1692,
+      "NameArabic":"مشحذ",
+      "NameEnglish":"MASHHIDH",
+      "ParentID":6
+   },
+   {
+      "ID":3286,
+      "NameArabic":"مشروفة",
+      "NameEnglish":"MASHRUFAH",
+      "ParentID":6
+   },
+   {
+      "ID":11641,
+      "NameArabic":"مصاولي",
+      "NameEnglish":"MASAWLY",
+      "ParentID":6
+   },
+   {
+      "ID":1749,
+      "NameArabic":"معصم",
+      "NameEnglish":"MA\u0027SAM",
+      "ParentID":6
+   },
+   {
+      "ID":1279,
+      "NameArabic":"مكهاف",
+      "NameEnglish":"MAKHAF",
+      "ParentID":6
+   },
+   {
+      "ID":3250,
+      "NameArabic":"مليح",
+      "NameEnglish":"MILAYYAH",
+      "ParentID":6
+   },
+   {
+      "ID":1643,
+      "NameArabic":"مملح",
+      "NameEnglish":"MAMLAH",
+      "ParentID":6
+   },
+   {
+      "ID":2959,
+      "NameArabic":"منادرالعين",
+      "NameEnglish":"MANADIR AL \u0027AYN",
+      "ParentID":6
+   },
+   {
+      "ID":11565,
+      "NameArabic":"مندرمربة",
+      "NameEnglish":"MANDIR MARABAH",
+      "ParentID":6
+   },
+   {
+      "ID":1807,
+      "NameArabic":"منقش",
+      "NameEnglish":"MANQASH",
+      "ParentID":6
+   },
+   {
+      "ID":1496,
+      "NameArabic":"مهر",
+      "NameEnglish":"MUHR",
+      "ParentID":6
+   },
+   {
+      "ID":2901,
+      "NameArabic":"نجد قرض",
+      "NameEnglish":"NAJD QARAD",
+      "ParentID":6
+   },
+   {
+      "ID":1290,
+      "NameArabic":"نعص",
+      "NameEnglish":"NA\u0027S",
+      "ParentID":6
+   },
+   {
+      "ID":3324,
+      "NameArabic":"نقعة",
+      "NameEnglish":"NAQ\u0027AH",
+      "ParentID":6
+   },
+   {
+      "ID":1474,
+      "NameArabic":"نمران",
+      "NameEnglish":"NAMRAN",
+      "ParentID":6
+   },
+   {
+      "ID":1798,
+      "NameArabic":"هدة",
+      "NameEnglish":"HIDAH",
+      "ParentID":6
+   },
+   {
+      "ID":3676,
+      "NameArabic":"وادي الحياة",
+      "NameEnglish":"WADI AL HAYAT",
+      "ParentID":6
+   },
+   {
+      "ID":3249,
+      "NameArabic":"وادي الغيل",
+      "NameEnglish":"WADI AL GHAYL",
+      "ParentID":6
+   },
+   {
+      "ID":1689,
+      "NameArabic":"واسط",
+      "NameEnglish":"WASIT",
+      "ParentID":6
+   },
+   {
+      "ID":1490,
+      "NameArabic":"واعر",
+      "NameEnglish":"WA\u0027IR",
+      "ParentID":6
+   },
+   {
+      "ID":1795,
+      "NameArabic":"وسانب",
+      "NameEnglish":"WUSANIB",
+      "ParentID":6
+   },
+   {
+      "ID":2515,
+      "NameArabic":"يانف",
+      "NameEnglish":"YANIF",
+      "ParentID":6
+   },
+   {
+      "ID":1832,
+      "NameArabic":"يسراة",
+      "NameEnglish":"YASRAH",
+      "ParentID":6
+   },
+   {
+      "ID":3692,
+      "NameArabic":"يعرى",
+      "NameEnglish":"YAARA",
+      "ParentID":6
+   }
+]

@@ -1,0 +1,244 @@
+[
+    {
+        "type": "المصروفات",
+        "label": "المصروفات العمومية والإدارية",
+        "key": "a1",
+        "equation": null,
+        "accept_zero": true
+
+    },
+    {
+        "type": "المصروفات",
+        "label": "مصروفات الحوكمة",
+        "key": "a2",
+        "equation": null,
+        "accept_zero": true
+    },
+    {
+        "type": "المصروفات",
+        "label": "إجمالي المصروفات العمومية والإدارية",
+        "key": "a3",
+        "equation": "a1+a2",
+        "accept_zero": false
+
+    },
+    {
+        "type": "المصروفات",
+        "label": "مصروفات البرامج والأنشطة",
+        "key": "a4",
+        "equation": null,
+
+        "accept_zero": true
+    },
+    {
+        "type": "المصروفات",
+        "label": "مصروفات عمومية وإدارية محملة على النشاط",
+        "key": "a5",
+        "equation": null,
+        "accept_zero": true
+    },
+    {
+        "type": "المصروفات",
+        "label": "إجمالي مصروفات البرامج والأنشطة",
+        "key": "a6",
+        "equation": "a4+a5",
+        "accept_zero": true
+    },
+    {
+        "type": "المصروفات",
+        "label": "مصروفات الأوقاف (مقيدة)",
+        "key": "a7",
+        "equation": null,
+        "accept_zero": true
+
+    },
+    {
+        "type": "المصروفات",
+        "label": "مصروفات الأوقاف (غير مقيدة)",
+        "key": "a8",
+        "equation": null,
+        "accept_zero": true
+    },
+    {
+        "type": "المصروفات",
+        "label": "مصروفات الاستثمار (مقيدة)",
+        "key": "a9",
+        "equation": null,
+        "accept_zero": true
+    },
+    {
+        "type": "المصروفات",
+        "label": "مصروفات الاستثمار (غير مقيدة)",
+        "key": "a10",
+        "equation": null,
+        "accept_zero": true
+    },
+    {
+        "type": "المصروفات",
+        "label": "مصروفات الاستدامة (مقيدة)",
+        "key": "a11",
+        "equation": "a7+a9",
+        "accept_zero": true
+    },
+    {
+        "type": "المصروفات",
+        "label": "مصروفات الاستدامة (غير مقيدة)",
+        "key": "a12",
+        "equation": "a8+a10",
+        "accept_zero": true
+    },
+    {
+        "type": "المصروفات",
+        "label": "مصروفات الاستدامة",
+        "key": "a13",
+        "equation": "a11+a12",
+        "accept_zero": true
+    },
+    {
+        "type": "المصروفات",
+        "label": "مصروفات جمع الأموال",
+        "key": "a14",
+        "equation": null,
+        "accept_zero": true
+    },
+    {
+        "type": "المصروفات",
+        "label": "إجمالي المصروفات",
+        "key": "a15",
+        "equation": "a3+a6+a13+a14",
+        "accept_zero": false
+    },
+    {
+        "type": "التبرعات",
+        "label": "إيرادات ريع الأوقاف (مقيدة)",
+        "key": "b1",
+        "equation": null,
+        "accept_zero": true
+
+    },
+    {
+        "type": "التبرعات",
+        "label": "إيرادات ريع الأوقاف (غير مقيدة)",
+        "key": "b2",
+        "equation": null,
+        "accept_zero": true
+
+    },
+    {
+        "type": "التبرعات",
+        "label": "إيرادات الاستثمارات (مقيدة)",
+        "key": "b3",
+        "equation": null,
+        "accept_zero": true
+
+    },
+    {
+        "type": "التبرعات",
+        "label": "إيرادات الاستثمارات (غير مقيدة)",
+        "key": "b4",
+        "equation": null,
+        "accept_zero": true
+
+    },
+    {
+        "type": "التبرعات",
+        "label": "إجمالي إيرادات الاستدامة (مقيدة)",
+        "key": "b5",
+        "equation": "b1+b3",
+        "accept_zero": true
+
+    },
+    {
+        "type": "التبرعات",
+        "label": "إجمالي إيرادات الاستدامة (غير مقيدة)",
+        "key": "b6",
+        "equation": "b2+b4",
+        "accept_zero": true
+    },
+    {
+        "type": "التبرعات",
+        "label": "إجمالي إيرادات الاستدامة",
+        "key": "b7",
+        "equation": "b5+b6",
+        "accept_zero": false
+
+    },
+    {
+        "type": "التبرعات",
+        "label": "إجمالي التبرعات",
+        "key": "b8",
+        "equation": null,
+        "accept_zero": false
+
+    },
+    {
+        "type": "الأصول",
+        "label": "النقد وما في حكمه",
+        "key": "c1",
+        "equation": null,
+        "accept_zero": true
+
+    },
+    {
+        "type": "الأصول",
+        "label": "الاستثمارات المتداولة",
+        "key": "c2",
+        "equation": null,
+        "accept_zero": true
+
+    },
+    {
+        "type": "الأصول",
+        "label": "أصول الاستدامة الاستثمارية",
+        "key": "c3",
+        "equation": null,
+        "accept_zero": true
+
+    },
+    {
+        "type": "الأصول",
+        "label": "أصول الاستدامة المالية الوقفية",
+        "key": "c4",
+        "equation": null,
+        "accept_zero": true
+
+    },
+    {
+        "type": "الأصول",
+        "label": "أصول الاستدامة المالية",
+        "key": "c5",
+        "equation": "c2+c3+c4",
+        "accept_zero": false
+    },
+    {
+        "type": "الالتزامات وصافي الأصول",
+        "label": "الالتزامات المتداولة",
+        "key": "d1",
+        "equation": null,
+        "accept_zero": true
+
+    },
+    {
+        "type": "الالتزامات وصافي الأصول",
+        "label": "صافي الأصول المقيدة",
+        "key": "d2",
+        "equation": null,
+        "accept_zero": true
+
+    },
+    {
+        "type": "الالتزامات وصافي الأصول",
+        "label": "صافي أصول الأوقاف النقدية",
+        "key": "d3",
+        "equation": null,
+        "accept_zero": true
+
+    },
+    {
+        "type": "الالتزامات وصافي الأصول",
+        "label": "اجمالي الالتزامات وصافي الأصول",
+        "key": "d4",
+        "equation": "d1+d2+d3",
+        "accept_zero": false
+    }
+]

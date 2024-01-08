@@ -1,0 +1,51 @@
+<?php
+
+return [
+    'mode' => '',
+    'format' => 'A4',
+    'default_font_size' => '6',
+    'default_font' => 'sans-serif',
+    'margin_left' => 0,
+    'margin_right' => 0,
+    'margin_top' => 0,
+    'margin_bottom' => 0,
+    'margin_header' => 0,
+    'margin_footer' => 0,
+    'orientation' => 'P',
+    'title' => 'حوكمني',
+    'subject' => '',
+    'author' => '',
+    'watermark' => '',
+    'show_watermark' => false,
+    'show_watermark_image' => false,
+    'watermark_font' => 'sans-serif',
+    'display_mode' => 'fullpage',
+    'watermark_text_alpha' => 0.1,
+    'watermark_image_path' => '',
+    'watermark_image_alpha' => 0.2,
+    'watermark_image_size' => 'D',
+    'watermark_image_position' => 'P',
+    'auto_language_detection' => false,
+    'temp_dir' => storage_path('app'),
+    'pdfa' => false,
+    'pdfaauto' => false,
+    'use_active_forms' => false,
+    'keywords' => '',
+    'creator' => 'جوكمني',
+    'tempDir' => storage_path('pdf'),
+    'font_path' => base_path('resources/fonts'),
+    'font_data' => [
+        'almarai' => [
+            'R' => 'Almarai-Regular.ttf',
+            'B' => 'Almarai-Bold.ttf',
+            'useOTL' => 0xFF,
+            'useKashida' => 75,
+        ],
+        'tajawal' => [ // must be lowercase and snake_case
+            'R'  => 'tajawal/tajawal-regular.ttf',    // regular font
+            'B'  => 'tajawal/tajawal-bold.ttf',
+            'useOTL' => 0xFF,
+            'useKashida' => 75,
+        ]
+    ],
+];
